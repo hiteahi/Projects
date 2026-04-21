@@ -1,0 +1,1001 @@
+customer_id,customer_name,email,phone,age,gender,city,state,customer_segment,registration_date
+CUST0001,victor moore,RACHEL@YAHOO.COM,,200.0,M,Mumbai,MH,home office,01-01-2020
+CUST0002,STEVE LEE,olivia58@outlook.com,99999999999999,62.0,F,Toronto,ON,Consumer,02/01/2020
+CUST0003,Karen  White,  uma@hotmail.com  ,N/A,200.0,female,Ahmedabad,GJ,CORPORATE,2020-01-04
+CUST0004,  Frank Patel  ,djackson@Yahoo.Com,99999999999999,200.0,Other,Ahmedabad,GJ,Consumer,2020-01-06
+CUST0005,Rachel Miller,ojackson@hotmail.com,8751295118,,F,Mumbai,MH,consumer,08-Jan-2020
+CUST0006,Xander Wilson,  charlie@yahoo.com  ,08921706952,-5.0,f,Hyderabad,TS,Corporate,2020-01-10
+CUST0006,ARJUN HARRIS,uma.williams@gmail.com,99999999999999,59.0,MALE,Kolkata,WB,Consumer,11-Jan-2020
+CUST0008,Xander  Williams,,+91-66089-40398,48.0,FEMALE,Delhi,DL,home office,13/01/2020
+CUST0009,Peter Anderson,rachel.anderson@yahoo.com,,21.0,Other,Delhi,DL,Home Office,15-Jan-2020
+CUST0010,Jack Thomas,elee@GMAIL.COM,99999999999999,,F,Ahmedabad,GJ,Corporate,01-17-2020
+CUST0011,Arjun  Thomas,nshah@gmail.com,+91-87808-01356,200.0,F,Bangalore,KA,consumer,2020-01-19
+CUST0012,OLIVIA GARCIA,uma.shah@outlook.com,99999999999999,-5.0,male,Surat,GJ,Home Office,01-21-2020
+CUST0013,IRIS HARRIS,nmoore@GMAIL.COM,N/A,,F,Pune,MH,Corporate,22-Jan-2020
+CUST0014,  Priya White  ,pooja65@GMAIL.COM,7232322744,45.0,m,Surat,GJ,CORPORATE,24/01/2020
+CUST0015,Arjun Jackson,zoe62@Yahoo.Com,N/A,57.0,FEMALE,Kolkata,WB,home office,26-Jan-2020
+CUST0016,Arjun Martin,sbrown@hotmail.com,N/A,-5.0,female,Chennai,TN,Consumer,01-28-2020
+CUST0017,Sneha  Walker,jack74@hotmail.com,+91-64271-59637,21.0,male,Surat,GJ,Corporate,30-Jan-2020
+CUST0018,Xander  Jackson,QUINN@GMAIL.COM,08327350811,-5.0,MALE,Mumbai,MH,Consumer,02-01-2020
+CUST0019,bob jones,IRIS@YAHOO.COM,+91-72728-23429,200.0,Other,Hyderabad,TS,Consumer,2020-02-02
+CUST0020,rahul harris,,99999999999999,54.0,male,Mumbai,MH,Consumer,02-04-2020
+CUST0021,  Jack Smith  ,qwilson@gmail.com,8308656189,64.0,M,New York,NY,Home Office,02-06-2020
+CUST0022,ALICE THOMAS,priya.moore@hotmail.com,99999999999999,-5.0,MALE,Toronto,ON,Consumer,02-08-2020
+CUST0023,Eve  Jackson,,N/A,20.0,male,Sydney,NSW,Corporate,02-10-2020
+CUST0024,FRANK WILLIAMS,,N/A,56.0,FEMALE,Surat,GJ,Corporate,12-Feb-2020
+CUST0025,Victor Moore,,,-5.0,Male,Mumbai,MH,home office,2020-02-13
+CUST0012,UMA WALKER,  iris@yahoo.com  ,6369173782,,M,Ahmedabad,GJ,Consumer,15/02/2020
+CUST0027,ZOE THOMPSON,pwhite@hotmail.com,N/A,200.0,MALE,Hyderabad,TS,Consumer,17-Feb-2020
+CUST0003,  Karen Jones  ,FRANK@YAHOO.COM,919455248480,,male,Bangalore,KA,Home Office,19-Feb-2020
+CUST0029,Priya  Thompson,diana7@gmail.com,,-5.0,Male,Sydney,NSW,consumer,21-Feb-2020
+CUST0030,diana garcia,,917207422565,200.0,F,Kolkata,WB,Consumer,02-23-2020
+CUST0023,Zoe  Wilson,,916307767506,200.0,M,Mumbai,MH,consumer,24/02/2020
+CUST0032,charlie thomas,  karen@outlook.com  ,919583877436,200.0,m,Jaipur,RJ,Home Office,26-Feb-2020
+CUST0013,jack white,PRIYA@HOTMAIL.COM,N/A,21.0,female,Jaipur,RJ,home office,28-Feb-2020
+CUST0034,  Diana Moore  ,eve.brown@hotmail.com,N/A,-5.0,M,Mumbai,MH,consumer,01/03/2020
+CUST0035,Steve White,YARA@YAHOO.COM,918967261018,23.0,male,Pune,MH,Consumer,2020-03-03
+CUST0036,  Arjun Moore  ,yharris@GMAIL.COM,9281075299,,Other,New York,NY,home office,04/03/2020
+CUST0037,Zoe Thomas,SNEHA@YAHOO.COM,99999999999999,25.0,FEMALE,Mumbai,MH,CORPORATE,06/03/2020
+CUST0038,  Tina Thompson  ,qjohnson@gmail.com,,70.0,female,Delhi,DL,Home Office,03-08-2020
+CUST0039,  Uma Walker  ,amiller@yahoo.com,99999999999999,-5.0,M,Ahmedabad,GJ,Home Office,10-Mar-2020
+CUST0040,Wendy  Harris,henry.moore@hotmail.com,,59.0,M,Delhi,DL,consumer,03-12-2020
+CUST0041,Alice  Williams,rachel56@Yahoo.Com,08615346649,20.0,M,Sydney,NSW,Home Office,2020-03-14
+CUST0042,Rachel Taylor,,99999999999999,42.0,F,Toronto,ON,Corporate,15-Mar-2020
+CUST0043,JACK JONES,,N/A,21.0,F,Kolkata,WB,Home Office,2020-03-17
+CUST0044,Zoe  Harris,,,57.0,F,London,LDN,consumer,2020-03-19
+CUST0045,rahul miller,  priya@outlook.com  ,99999999999999,42.0,M,Hyderabad,TS,CORPORATE,21-Mar-2020
+CUST0046,NICK JONES,  karen@hotmail.com  ,+91-76783-36713,31.0,F,Hyderabad,TS,CORPORATE,03-23-2020
+CUST0047,rahul miller,,,60.0,FEMALE,Pune,MH,consumer,25-Mar-2020
+CUST0048,Wendy Smith,  alice@hotmail.com  ,6881067043,200.0,FEMALE,Toronto,ON,home office,26/03/2020
+CUST0049,Zoe  Smith,QUINN@HOTMAIL.COM,,200.0,FEMALE,Pune,MH,CORPORATE,28-Mar-2020
+CUST0050,Mia Martin,leo.white@Yahoo.Com,N/A,200.0,Other,Kolkata,WB,CORPORATE,30/03/2020
+CUST0051,TINA ANDERSON,  grace@gmail.com  ,N/A,19.0,M,Delhi,DL,Consumer,01/04/2020
+CUST0052,  Frank Harris  ,tina.lee@outlook.com,N/A,-5.0,male,Jaipur,RJ,home office,03/04/2020
+CUST0053,  Charlie Thomas  ,mthomas@hotmail.com,N/A,68.0,m,Toronto,ON,consumer,05-Apr-2020
+CUST0054,Victor  Jackson,jack.davis@hotmail.com,99999999999999,-5.0,female,Pune,MH,Consumer,04-06-2020
+CUST0055,Yara  Thomas,XANDER@YAHOO.COM,07492794766,200.0,female,Ahmedabad,GJ,consumer,08-Apr-2020
+CUST0056,Iris Anderson,kmartin@yahoo.com,N/A,,female,Surat,GJ,Home Office,2020-04-10
+CUST0057,STEVE THOMAS,alice.patel@yahoo.com,08243753906,51.0,female,Mumbai,MH,Home Office,04-12-2020
+CUST0058,  Nick Harris  ,uma26@hotmail.com,916526044822,,f,Kolkata,WB,Consumer,04-14-2020
+CUST0059,Frank  Moore,,+91-68115-45609,18.0,female,Hyderabad,TS,Home Office,16-Apr-2020
+CUST0060,  Tina Patel  ,,N/A,69.0,Other,London,LDN,home office,17-Apr-2020
+CUST0061,Victor  Lee,HENRY@OUTLOOK.COM,+91-75791-25557,52.0,f,Ahmedabad,GJ,consumer,19/04/2020
+CUST0062,  Karen Williams  ,XANDER@OUTLOOK.COM,N/A,39.0,FEMALE,Ahmedabad,GJ,consumer,2020-04-21
+CUST0063,  Bob Jackson  ,tpatel@Yahoo.Com,,41.0,F,Sydney,NSW,CORPORATE,2020-04-23
+CUST0064,Bob  Johnson,  peter@hotmail.com  ,9485253781,,m,New York,NY,Consumer,25/04/2020
+CUST0065,quinn brown,,07917624738,69.0,M,Delhi,DL,consumer,04-26-2020
+CUST0066,PETER THOMAS,peter.moore@hotmail.com,917167496657,,FEMALE,Sydney,NSW,home office,04-28-2020
+CUST0067,TINA LEE,fanderson@GMAIL.COM,8351275639,-5.0,Other,Pune,MH,CORPORATE,30-Apr-2020
+CUST0068,Priya Garcia,frank.white@outlook.com,99999999999999,47.0,MALE,Surat,GJ,CORPORATE,2020-05-02
+CUST0069,HENRY MILLER,,08516711804,-5.0,female,Delhi,DL,Home Office,05-04-2020
+CUST0070,Diana  Jackson,EVE@GMAIL.COM,9149861842,-5.0,M,Mumbai,MH,home office,06-May-2020
+CUST0071,XANDER WILSON,IRIS@OUTLOOK.COM,,23.0,male,Chennai,TN,consumer,07/05/2020
+CUST0072,Quinn  Anderson,,,57.0,F,Mumbai,MH,Consumer,09-May-2020
+CUST0073,Wendy Martin,  amit@hotmail.com  ,N/A,34.0,Female,Sydney,NSW,consumer,11/05/2020
+CUST0074,Henry  Harris,  karen@yahoo.com  ,,49.0,m,Mumbai,MH,Consumer,2020-05-13
+CUST0075,  Diana Patel  ,quinn.brown@hotmail.com,N/A,200.0,Other,Bangalore,KA,consumer,2020-05-15
+CUST0076,Henry  Anderson,priya.martin@Yahoo.Com,916654762561,59.0,F,Delhi,DL,Consumer,05-17-2020
+CUST0077,Rahul  Johnson,  nick@Yahoo.Com  ,N/A,,MALE,Pune,MH,consumer,18-May-2020
+CUST0078,tina patel,mia79@GMAIL.COM,99999999999999,55.0,f,Sydney,NSW,Home Office,2020-05-20
+CUST0079,alice thomas,  tina@hotmail.com  ,99999999999999,53.0,M,London,LDN,CORPORATE,05-22-2020
+CUST0080,SNEHA JACKSON,ZOE@HOTMAIL.COM,9748766605,34.0,Male,London,LDN,Consumer,24-May-2020
+CUST0081,victor davis,xjohnson@Yahoo.Com,+91-75723-37634,200.0,female,Kolkata,WB,Consumer,26-May-2020
+CUST0082,peter davis,RAHUL@HOTMAIL.COM,N/A,20.0,female,Chennai,TN,Corporate,05-28-2020
+CUST0083,Olivia  Harris,rshah@outlook.com,+91-83271-14760,200.0,FEMALE,Bangalore,KA,home office,29-May-2020
+CUST0084,Wendy Johnson,hshah@GMAIL.COM,917268961168,46.0,m,Delhi,DL,home office,2020-05-31
+CUST0085,TINA ANDERSON,peter85@GMAIL.COM,+91-68098-61078,200.0,male,Chennai,TN,home office,06-02-2020
+CUST0086,STEVE PATEL,,919970989978,-5.0,Other,London,LDN,Consumer,2020-06-04
+CUST0087,Iris Shah,EVE@OUTLOOK.COM,,45.0,M,Toronto,ON,consumer,06-06-2020
+CUST0088,Yara  Smith,  victor@hotmail.com  ,+91-96143-45062,200.0,m,Pune,MH,consumer,08/06/2020
+CUST0089,PETER SHAH,,99999999999999,-5.0,M,Sydney,NSW,home office,2020-06-09
+CUST0081,grace patel,,+91-91241-01254,48.0,male,Jaipur,RJ,Home Office,11/06/2020
+CUST0091,Uma Jones,oshah@outlook.com,N/A,28.0,F,Mumbai,MH,Corporate,06-13-2020
+CUST0092,MIA WILSON,alice40@hotmail.com,,200.0,Male,London,LDN,CORPORATE,15-Jun-2020
+CUST0093,xander walker,  eve@hotmail.com  ,+91-67144-69480,24.0,female,Sydney,NSW,consumer,17/06/2020
+CUST0094,SNEHA WHITE,diana18@yahoo.com,916278607682,,M,Mumbai,MH,Consumer,06-18-2020
+CUST0060,grace shah,OLIVIA@HOTMAIL.COM,07654738715,200.0,f,Hyderabad,TS,Home Office,20/06/2020
+CUST0009,Jack Jones,eve.thompson@Yahoo.Com,,-5.0,Other,Toronto,ON,Home Office,2020-06-22
+CUST0097,PRIYA WILSON,CHARLIE@HOTMAIL.COM,+91-81920-71758,,male,Mumbai,MH,CORPORATE,06-24-2020
+CUST0098,ARJUN DAVIS,victor49@GMAIL.COM,09751252216,,MALE,Delhi,DL,home office,06-26-2020
+CUST0099,Frank  Walker,EVE@YAHOO.COM,+91-92831-44690,200.0,Other,Mumbai,MH,consumer,28-Jun-2020
+CUST0100,Frank Lee,peter.garcia@Yahoo.Com,+91-97451-45663,200.0,f,Hyderabad,TS,Corporate,06-29-2020
+CUST0101,Diana Shah,,,,male,Delhi,DL,CORPORATE,2020-07-01
+CUST0102,priya garcia,pdavis@outlook.com,,25.0,Other,Hyderabad,TS,consumer,07-03-2020
+CUST0103,Iris  Smith,nick69@yahoo.com,N/A,200.0,M,Pune,MH,Consumer,07-05-2020
+CUST0104,amit brown,imoore@outlook.com,06346760672,38.0,f,London,LDN,Consumer,2020-07-07
+CUST0016,nick williams,  amit@GMAIL.COM  ,9241962842,54.0,female,Surat,GJ,home office,09/07/2020
+CUST0106,Rahul Patel,PETER@OUTLOOK.COM,N/A,69.0,male,Toronto,ON,Corporate,10/07/2020
+CUST0107,Eve  Thomas,AMIT@YAHOO.COM,+91-99874-62850,,M,Toronto,ON,CORPORATE,2020-07-12
+CUST0108,xander thomas,,06290505619,-5.0,FEMALE,Kolkata,WB,home office,14/07/2020
+CUST0109,ZOE LEE,mia.harris@hotmail.com,N/A,64.0,F,Hyderabad,TS,Consumer,07-16-2020
+CUST0110,  Zoe Williams  ,grace.martin@gmail.com,06200061963,40.0,female,London,LDN,CORPORATE,07-18-2020
+CUST0111,Quinn  Martin,GRACE@HOTMAIL.COM,N/A,200.0,male,Bangalore,KA,consumer,07-20-2020
+CUST0112,pooja miller,priya12@outlook.com,,-5.0,F,Bangalore,KA,Consumer,07-21-2020
+CUST0113,priya jackson,  wendy@hotmail.com  ,09660540722,54.0,FEMALE,Surat,GJ,CORPORATE,07-23-2020
+CUST0114,Rahul Garcia,pjohnson@outlook.com,,-5.0,f,Ahmedabad,GJ,Corporate,2020-07-25
+CUST0046,Pooja Jackson,adavis@outlook.com,99999999999999,55.0,f,Delhi,DL,consumer,07-27-2020
+CUST0116,arjun wilson,sneha.davis@gmail.com,99999999999999,68.0,m,Bangalore,KA,Home Office,29/07/2020
+CUST0117,KAREN MOORE,diana19@hotmail.com,N/A,39.0,Other,Pune,MH,home office,2020-07-31
+CUST0118,jack martin,,+91-65568-65760,44.0,Male,Sydney,NSW,CORPORATE,01/08/2020
+CUST0119,IRIS THOMPSON,  diana@Yahoo.Com  ,99999999999999,49.0,Other,Bangalore,KA,consumer,08-03-2020
+CUST0120,pooja shah,zoe.walker@gmail.com,917189998443,47.0,Female,Toronto,ON,CORPORATE,08-05-2020
+CUST0121,Sneha Thomas,VICTOR@YAHOO.COM,+91-93768-15988,200.0,Female,Surat,GJ,home office,07-Aug-2020
+CUST0122,Iris  Lee,grace.walker@GMAIL.COM,,63.0,Female,Sydney,NSW,home office,09-Aug-2020
+CUST0123,Henry  Moore,peter.moore@yahoo.com,N/A,26.0,Male,Kolkata,WB,Consumer,08-10-2020
+CUST0124,Nick Jackson,,6658090039,28.0,Male,New York,NY,Home Office,12/08/2020
+CUST0125,  Sneha Williams  ,mia.walker@outlook.com,+91-98028-13548,-5.0,Male,Ahmedabad,GJ,CORPORATE,2020-08-14
+CUST0126,amit brown,rahul.harris@GMAIL.COM,918538994061,,FEMALE,New York,NY,Consumer,16/08/2020
+CUST0127,Charlie  Patel,iris74@GMAIL.COM,06266192234,63.0,Female,Delhi,DL,home office,18/08/2020
+CUST0128,Karen  Lee,priya.jones@hotmail.com,99999999999999,70.0,FEMALE,Jaipur,RJ,CORPORATE,20/08/2020
+CUST0129,XANDER ANDERSON,LEO@HOTMAIL.COM,919706310053,55.0,FEMALE,Jaipur,RJ,consumer,21/08/2020
+CUST0130,  Henry Jones  ,,08830794809,,female,Chennai,TN,Corporate,2020-08-23
+CUST0131,ARJUN WILSON,sneha.williams@GMAIL.COM,N/A,,male,Surat,GJ,consumer,25-Aug-2020
+CUST0132,henry miller,PETER@GMAIL.COM,919291898710,45.0,female,Ahmedabad,GJ,Home Office,27-Aug-2020
+CUST0133,henry thomas,  eve@gmail.com  ,919372491666,48.0,MALE,New York,NY,Corporate,2020-08-29
+CUST0134,XANDER MOORE,rjohnson@Yahoo.Com,,200.0,Female,Ahmedabad,GJ,Consumer,2020-08-31
+CUST0135,Steve  Smith,gwilson@Yahoo.Com,+91-98900-40374,50.0,FEMALE,Hyderabad,TS,Home Office,01/09/2020
+CUST0136,  Charlie Garcia  ,,+91-69029-59376,55.0,f,Pune,MH,CORPORATE,2020-09-03
+CUST0137,JACK HARRIS,ALICE@YAHOO.COM,,-5.0,FEMALE,Toronto,ON,Home Office,05-Sep-2020
+CUST0138,  Henry Smith  ,ftaylor@yahoo.com,+91-72076-73349,200.0,f,London,LDN,consumer,09-07-2020
+CUST0139,XANDER BROWN,peter83@hotmail.com,919944048177,64.0,F,Ahmedabad,GJ,Consumer,09-09-2020
+CUST0140,  Tina Williams  ,  karen@outlook.com  ,06272591127,49.0,F,Chennai,TN,home office,09-11-2020
+CUST0141,xander jackson,arjun.patel@yahoo.com,6963685029,200.0,FEMALE,Delhi,DL,Corporate,12/09/2020
+CUST0142,TINA MARTIN,pooja38@gmail.com,N/A,45.0,male,Hyderabad,TS,Consumer,14-Sep-2020
+CUST0118,  Steve Jackson  ,ajohnson@yahoo.com,9194640346,42.0,MALE,Toronto,ON,Corporate,09-16-2020
+CUST0144,Pooja Patel,NICK@GMAIL.COM,918338123991,,MALE,Hyderabad,TS,consumer,18/09/2020
+CUST0145,  Bob Moore  ,,6753939761,200.0,Female,London,LDN,consumer,09-20-2020
+CUST0146,JACK JACKSON,diana.miller@hotmail.com,N/A,57.0,m,Delhi,DL,Corporate,2020-09-22
+CUST0147,  Jack Garcia  ,karen.patel@hotmail.com,N/A,40.0,male,Pune,MH,Consumer,2020-09-23
+CUST0148,ARJUN GARCIA,,99999999999999,-5.0,male,Jaipur,RJ,consumer,25/09/2020
+CUST0149,DIANA ANDERSON,alice44@outlook.com,07787507560,28.0,male,Sydney,NSW,home office,27/09/2020
+CUST0150,TINA GARCIA,yharris@Yahoo.Com,+91-91115-00207,34.0,M,Sydney,NSW,home office,29/09/2020
+CUST0151,Steve  Jones,,8309107461,60.0,Female,Chennai,TN,Corporate,01/10/2020
+CUST0152,  Nick Miller  ,SNEHA@GMAIL.COM,+91-77605-55221,200.0,m,New York,NY,consumer,10-03-2020
+CUST0153,LEO HARRIS,sgarcia@GMAIL.COM,+91-64862-67885,200.0,f,New York,NY,Consumer,04/10/2020
+CUST0154,pooja garcia,,6269055029,52.0,M,London,LDN,Home Office,06/10/2020
+CUST0155,Alice Martin,POOJA@HOTMAIL.COM,08937167377,18.0,male,Sydney,NSW,Corporate,08/10/2020
+CUST0156,henry brown,  jack@yahoo.com  ,08819044151,200.0,m,Chennai,TN,Corporate,2020-10-10
+CUST0157,WENDY WHITE,,+91-97292-98787,200.0,m,London,LDN,Home Office,12-Oct-2020
+CUST0158,EVE LEE,sanderson@GMAIL.COM,,26.0,Other,Delhi,DL,home office,2020-10-13
+CUST0159,  Charlie Miller  ,,N/A,-5.0,F,Delhi,DL,CORPORATE,2020-10-15
+CUST0044,Arjun  Garcia,DIANA@OUTLOOK.COM,99999999999999,45.0,MALE,Ahmedabad,GJ,consumer,2020-10-17
+CUST0161,AMIT MILLER,diana4@yahoo.com,99999999999999,,female,Mumbai,MH,Corporate,19-Oct-2020
+CUST0162,Tina Johnson,uma.walker@Yahoo.Com,N/A,25.0,Female,Chennai,TN,home office,21-Oct-2020
+CUST0163,RAHUL GARCIA,,07588293766,,Other,Mumbai,MH,consumer,2020-10-23
+CUST0019,Victor Miller,DIANA@HOTMAIL.COM,+91-63803-62052,200.0,male,New York,NY,home office,24/10/2020
+CUST0165,  Yara Wilson  ,,9643569021,,F,Chennai,TN,Consumer,2020-10-26
+CUST0166,AMIT JACKSON,  karen@hotmail.com  ,916640273782,65.0,Female,Ahmedabad,GJ,Consumer,2020-10-28
+CUST0167,  Iris White  ,DIANA@GMAIL.COM,99999999999999,63.0,Male,Sydney,NSW,Corporate,2020-10-30
+CUST0168,  Iris Patel  ,,99999999999999,200.0,male,Kolkata,WB,Corporate,01-Nov-2020
+CUST0169,Sneha Walker,leo.wilson@yahoo.com,08845382835,,M,Chennai,TN,Corporate,2020-11-03
+CUST0170,Rahul  Brown,  eve@outlook.com  ,09704697685,,F,Ahmedabad,GJ,home office,11-04-2020
+CUST0171,RAHUL PATEL,ethompson@gmail.com,917913330750,200.0,M,Delhi,DL,CORPORATE,2020-11-06
+CUST0172,Jack Garcia,pwhite@yahoo.com,09831856709,32.0,F,Pune,MH,CORPORATE,2020-11-08
+CUST0173,Uma  Williams,zoe16@yahoo.com,6617511527,-5.0,male,Chennai,TN,Consumer,11-10-2020
+CUST0174,Frank Moore,,08172535838,-5.0,Male,Sydney,NSW,consumer,2020-11-12
+CUST0175,  Arjun Williams  ,pwhite@gmail.com,,,f,Surat,GJ,consumer,2020-11-14
+CUST0176,  Yara Thomas  ,charlie.shah@hotmail.com,917959166755,,FEMALE,Toronto,ON,Home Office,2020-11-15
+CUST0177,Olivia Brown,fthompson@GMAIL.COM,N/A,31.0,F,Jaipur,RJ,home office,17/11/2020
+CUST0178,Zoe Wilson,,99999999999999,53.0,f,Jaipur,RJ,consumer,19/11/2020
+CUST0179,Victor Williams,UMA@YAHOO.COM,918366564581,-5.0,f,Sydney,NSW,Consumer,21/11/2020
+CUST0180,Charlie Taylor,quinn26@gmail.com,,-5.0,male,Pune,MH,home office,11-23-2020
+CUST0181,RAHUL SMITH,ndavis@outlook.com,N/A,,F,Toronto,ON,CORPORATE,2020-11-25
+CUST0182,RACHEL LEE,  uma@GMAIL.COM  ,917611697526,,Male,Hyderabad,TS,home office,2020-11-26
+CUST0183,Frank Davis,peter.thompson@yahoo.com,N/A,32.0,F,London,LDN,Home Office,28/11/2020
+CUST0184,karen harris,,,,Other,Ahmedabad,GJ,home office,11-30-2020
+CUST0185,BOB HARRIS,  zoe@GMAIL.COM  ,,200.0,f,New York,NY,CORPORATE,12-02-2020
+CUST0186,Tina  Shah,ilee@gmail.com,,36.0,FEMALE,Bangalore,KA,Consumer,12-04-2020
+CUST0187,Henry Brown,  tina@gmail.com  ,+91-73849-76854,66.0,FEMALE,Sydney,NSW,consumer,05/12/2020
+CUST0188,Frank Smith,sneha45@GMAIL.COM,99999999999999,46.0,Female,Jaipur,RJ,consumer,07/12/2020
+CUST0189,Mia Johnson,uma76@Yahoo.Com,N/A,45.0,FEMALE,Delhi,DL,Consumer,2020-12-09
+CUST0190,Diana  Wilson,eve.jones@outlook.com,99999999999999,47.0,Female,Bangalore,KA,Home Office,2020-12-11
+CUST0191,mia smith,abrown@GMAIL.COM,6228718546,,male,Chennai,TN,consumer,2020-12-13
+CUST0192,Amit Shah,,9759091699,-5.0,male,Pune,MH,CORPORATE,15/12/2020
+CUST0193,BOB LEE,gdavis@hotmail.com,916617857180,44.0,f,Kolkata,WB,home office,16/12/2020
+CUST0194,HENRY JOHNSON,,N/A,200.0,MALE,Ahmedabad,GJ,consumer,12-18-2020
+CUST0195,  Leo Brown  ,,+91-86269-98235,31.0,Other,Sydney,NSW,Consumer,20/12/2020
+CUST0196,Bob  Miller,quinn.moore@GMAIL.COM,+91-85272-19856,38.0,M,Surat,GJ,Consumer,2020-12-22
+CUST0197,  Rachel Martin  ,IRIS@YAHOO.COM,N/A,-5.0,male,Jaipur,RJ,Consumer,2020-12-24
+CUST0198,NICK SMITH,,N/A,-5.0,Female,Chennai,TN,Home Office,26/12/2020
+CUST0199,peter thomas,ewalker@Yahoo.Com,916639528648,-5.0,Other,Toronto,ON,home office,27-Dec-2020
+CUST0200,rahul walker,peter.lee@gmail.com,99999999999999,,female,Kolkata,WB,Home Office,12-29-2020
+CUST0201,  Frank Martin  ,XANDER@YAHOO.COM,7590910502,-5.0,Other,Chennai,TN,consumer,31/12/2020
+CUST0202,UMA WILSON,STEVE@YAHOO.COM,,32.0,FEMALE,Delhi,DL,consumer,02-Jan-2021
+CUST0203,ZOE HARRIS,karen.jackson@GMAIL.COM,,,MALE,Hyderabad,TS,CORPORATE,2021-01-04
+CUST0012,Charlie Harris,rharris@Yahoo.Com,N/A,57.0,Female,Kolkata,WB,Corporate,06/01/2021
+CUST0205,Pooja  Taylor,tina62@hotmail.com,916449434459,26.0,FEMALE,Bangalore,KA,Corporate,01-07-2021
+CUST0206,bob walker,  alice@outlook.com  ,N/A,-5.0,f,New York,NY,Consumer,09-Jan-2021
+CUST0207,Victor  Jackson,tina8@Yahoo.Com,918354626229,63.0,F,Hyderabad,TS,Consumer,11-Jan-2021
+CUST0208,Priya Taylor,  grace@outlook.com  ,919758293983,200.0,Male,Sydney,NSW,Corporate,13/01/2021
+CUST0209,Leo Anderson,iris78@hotmail.com,08297475805,200.0,f,Surat,GJ,Consumer,15/01/2021
+CUST0210,Arjun Shah,,09326057528,41.0,f,New York,NY,CORPORATE,17-Jan-2021
+CUST0211,Bob Taylor,handerson@outlook.com,99999999999999,,M,Delhi,DL,Corporate,2021-01-18
+CUST0212,Uma  Taylor,gmartin@GMAIL.COM,09400249927,36.0,male,Bangalore,KA,home office,01-20-2021
+CUST0213,yara davis,jdavis@outlook.com,+91-77135-46516,39.0,FEMALE,Ahmedabad,GJ,Corporate,2021-01-22
+CUST0214,Quinn Anderson,rachel.white@yahoo.com,7974230575,53.0,MALE,Delhi,DL,consumer,24-Jan-2021
+CUST0215,Frank  Shah,STEVE@HOTMAIL.COM,+91-89633-82466,200.0,female,London,LDN,home office,2021-01-26
+CUST0216,  Henry Thomas  ,njackson@yahoo.com,+91-95089-70423,-5.0,m,Delhi,DL,CORPORATE,27/01/2021
+CUST0217,GRACE THOMAS,victor41@Yahoo.Com,,36.0,MALE,Chennai,TN,Home Office,29-Jan-2021
+CUST0218,Karen Walker,  nick@outlook.com  ,99999999999999,,m,Mumbai,MH,CORPORATE,01-31-2021
+CUST0219,STEVE JOHNSON,quinn.harris@hotmail.com,06289630619,,Male,Ahmedabad,GJ,Home Office,02-02-2021
+CUST0220,Jack Anderson,  pooja@outlook.com  ,99999999999999,-5.0,F,Bangalore,KA,consumer,2021-02-04
+CUST0137,LEO TAYLOR,qdavis@yahoo.com,08943244821,,FEMALE,Hyderabad,TS,Consumer,2021-02-06
+CUST0222,  Quinn Brown  ,  diana@gmail.com  ,N/A,35.0,male,Mumbai,MH,home office,02-07-2021
+CUST0223,  Frank Smith  ,  frank@Yahoo.Com  ,6527780790,,Male,Ahmedabad,GJ,Corporate,09-Feb-2021
+CUST0012,JACK WHITE,priya.moore@GMAIL.COM,+91-71644-63569,,Other,New York,NY,CORPORATE,2021-02-11
+CUST0225,tina thomas,,99999999999999,52.0,female,Jaipur,RJ,consumer,13-Feb-2021
+CUST0214,arjun jones,charlie.anderson@outlook.com,,-5.0,MALE,Ahmedabad,GJ,Consumer,02-15-2021
+CUST0227,KAREN SMITH,ALICE@GMAIL.COM,918378924968,37.0,MALE,Pune,MH,CORPORATE,17-Feb-2021
+CUST0228,  Diana Walker  ,vmiller@hotmail.com,N/A,45.0,F,Hyderabad,TS,Consumer,02-18-2021
+CUST0012,Uma Brown,  iris@outlook.com  ,8469517811,35.0,M,Delhi,DL,Corporate,20-Feb-2021
+CUST0230,  Leo Martin  ,,919230177767,200.0,FEMALE,Jaipur,RJ,Corporate,22/02/2021
+CUST0231,BOB WILSON,karen.walker@gmail.com,N/A,-5.0,Male,Delhi,DL,Corporate,24-Feb-2021
+CUST0232,Diana Davis,RAHUL@HOTMAIL.COM,917937850514,200.0,MALE,Pune,MH,Home Office,02-26-2021
+CUST0233,TINA ANDERSON,PRIYA@YAHOO.COM,,,Other,Kolkata,WB,Corporate,28-Feb-2021
+CUST0234,Yara White,alice.martin@outlook.com,,-5.0,F,Chennai,TN,home office,01/03/2021
+CUST0235,grace walker,,09184189438,-5.0,Other,Bangalore,KA,home office,2021-03-03
+CUST0236,uma shah,  eve@outlook.com  ,,,Female,Kolkata,WB,consumer,05-Mar-2021
+CUST0237,Jack Shah,jack66@GMAIL.COM,,200.0,FEMALE,Jaipur,RJ,Consumer,03-07-2021
+CUST0238,Arjun  Harris,charlie41@GMAIL.COM,,43.0,m,Kolkata,WB,Home Office,09/03/2021
+CUST0170,uma martin,xthomas@GMAIL.COM,9176605123,200.0,Male,Jaipur,RJ,Consumer,2021-03-11
+CUST0240,Quinn Jackson,JACK@HOTMAIL.COM,+91-74689-65063,37.0,male,Pune,MH,CORPORATE,12-Mar-2021
+CUST0241,yara shah,PRIYA@OUTLOOK.COM,,27.0,f,Mumbai,MH,Consumer,2021-03-14
+CUST0242,Henry Miller,imoore@outlook.com,918862822145,53.0,Male,Ahmedabad,GJ,Consumer,16-Mar-2021
+CUST0243,Diana Smith,  charlie@Yahoo.Com  ,09391250425,49.0,f,Hyderabad,TS,CORPORATE,18-Mar-2021
+CUST0244,Mia  Patel,,N/A,-5.0,Male,Pune,MH,home office,2021-03-20
+CUST0245,PETER TAYLOR,  xander@gmail.com  ,+91-95445-17369,64.0,MALE,Delhi,DL,Home Office,2021-03-21
+CUST0246,PETER SMITH,CHARLIE@YAHOO.COM,+91-71248-04609,49.0,M,Mumbai,MH,CORPORATE,23/03/2021
+CUST0247,  Pooja Patel  ,WENDY@YAHOO.COM,917810841299,65.0,female,New York,NY,CORPORATE,25-Mar-2021
+CUST0248,Yara  Anderson,,+91-63260-99417,,F,Kolkata,WB,Consumer,27-Mar-2021
+CUST0249,henry johnson,,9210605413,54.0,M,London,LDN,Home Office,2021-03-29
+CUST0250,Rachel  Taylor,,N/A,200.0,M,Kolkata,WB,Corporate,31/03/2021
+CUST0207,DIANA SHAH,  wendy@yahoo.com  ,99999999999999,-5.0,Male,Chennai,TN,Home Office,2021-04-01
+CUST0252,  Uma White  ,  arjun@outlook.com  ,99999999999999,33.0,Other,Hyderabad,TS,Corporate,04-03-2021
+CUST0253,SNEHA DAVIS,JACK@OUTLOOK.COM,916211592272,200.0,MALE,Chennai,TN,consumer,05/04/2021
+CUST0254,arjun walker,peter.harris@Yahoo.Com,,53.0,M,Kolkata,WB,Corporate,04-07-2021
+CUST0255,Eve  Harris,KAREN@GMAIL.COM,+91-94321-84213,24.0,FEMALE,Bangalore,KA,Corporate,09/04/2021
+CUST0256,amit thomas,LEO@YAHOO.COM,917891984698,42.0,FEMALE,Surat,GJ,home office,11-Apr-2021
+CUST0257,bob walker,  arjun@hotmail.com  ,+91-97726-78518,28.0,m,Hyderabad,TS,consumer,2021-04-12
+CUST0258,Arjun Williams,bthompson@hotmail.com,99999999999999,28.0,M,Jaipur,RJ,consumer,14/04/2021
+CUST0259,olivia anderson,,7130678197,45.0,M,Surat,GJ,consumer,16-Apr-2021
+CUST0260,  Bob Jackson  ,victor62@GMAIL.COM,99999999999999,-5.0,FEMALE,Ahmedabad,GJ,Corporate,18-Apr-2021
+CUST0261,rachel harris,adavis@hotmail.com,99999999999999,-5.0,male,Jaipur,RJ,Consumer,04-20-2021
+CUST0262,grace shah,pdavis@hotmail.com,08688996003,43.0,FEMALE,Kolkata,WB,Corporate,04-22-2021
+CUST0263,Peter Brown,  rachel@Yahoo.Com  ,N/A,,MALE,Delhi,DL,consumer,23-Apr-2021
+CUST0264,Iris Thomas,KAREN@OUTLOOK.COM,N/A,200.0,m,New York,NY,CORPORATE,04-25-2021
+CUST0265,TINA MOORE,GRACE@HOTMAIL.COM,,54.0,female,Mumbai,MH,home office,27-Apr-2021
+CUST0266,ARJUN WALKER,  yara@GMAIL.COM  ,,,F,New York,NY,home office,29-Apr-2021
+CUST0267,rahul miller,charlie.anderson@yahoo.com,08472769123,,MALE,Chennai,TN,CORPORATE,01-May-2021
+CUST0268,FRANK JONES,amoore@Yahoo.Com,7964048388,56.0,MALE,Delhi,DL,Consumer,05-03-2021
+CUST0269,  Nick Martin  ,,919430570947,31.0,Female,Chennai,TN,Corporate,04/05/2021
+CUST0270,  Jack Lee  ,MIA@YAHOO.COM,+91-93789-65689,64.0,F,Delhi,DL,home office,06-May-2021
+CUST0271,  Xander Martin  ,swilson@GMAIL.COM,8111334226,51.0,Other,Mumbai,MH,Corporate,2021-05-08
+CUST0272,Karen Johnson,,917469243620,44.0,Female,Mumbai,MH,CORPORATE,2021-05-10
+CUST0273,Peter Jones,tina.lee@yahoo.com,9674558056,18.0,Other,Surat,GJ,Corporate,05-12-2021
+CUST0274,Priya  Harris,,09911182636,,FEMALE,Hyderabad,TS,Consumer,13-May-2021
+CUST0275,  Rahul Williams  ,  olivia@gmail.com  ,99999999999999,47.0,m,Chennai,TN,consumer,15-May-2021
+CUST0276,charlie moore,bob.taylor@Yahoo.Com,919956808156,-5.0,Female,Delhi,DL,CORPORATE,17/05/2021
+CUST0277,ALICE SHAH,MIA@YAHOO.COM,7955522471,22.0,Male,Jaipur,RJ,Consumer,19/05/2021
+CUST0278,Sneha Thompson,  zoe@outlook.com  ,08302476546,32.0,male,Delhi,DL,CORPORATE,2021-05-21
+CUST0279,steve white,vharris@Yahoo.Com,+91-95238-61817,30.0,Female,Hyderabad,TS,Corporate,2021-05-23
+CUST0280,KAREN GARCIA,rachel.taylor@hotmail.com,,200.0,female,Chennai,TN,Corporate,2021-05-24
+CUST0281,ALICE WHITE,eve74@Yahoo.Com,09989516564,200.0,Female,Surat,GJ,home office,2021-05-26
+CUST0136,  Diana Brown  ,rachel.thompson@Yahoo.Com,7382372922,200.0,male,London,LDN,consumer,28-May-2021
+CUST0283,amit harris,wendy.garcia@outlook.com,+91-97714-35478,59.0,FEMALE,London,LDN,home office,2021-05-30
+CUST0284,rachel shah,,,22.0,Female,Kolkata,WB,Home Office,01/06/2021
+CUST0190,  Quinn Thompson  ,vmoore@gmail.com,+91-85433-52165,31.0,male,Kolkata,WB,Corporate,03-Jun-2021
+CUST0286,  Yara Davis  ,blee@GMAIL.COM,+91-62958-58216,54.0,f,Kolkata,WB,Home Office,06-04-2021
+CUST0287,  Wendy Davis  ,HENRY@OUTLOOK.COM,,,female,Delhi,DL,consumer,06/06/2021
+CUST0288,  Nick Miller  ,QUINN@OUTLOOK.COM,09763281908,200.0,Female,Chennai,TN,Consumer,06-08-2021
+CUST0289,Steve  Garcia,leo.white@hotmail.com,N/A,56.0,Female,London,LDN,consumer,2021-06-10
+CUST0290,charlie shah,  quinn@yahoo.com  ,919301637382,,Male,Sydney,NSW,Consumer,2021-06-12
+CUST0291,KAREN WILLIAMS,charlie92@hotmail.com,6263369074,48.0,Male,London,LDN,Home Office,14-Jun-2021
+CUST0292,EVE BROWN,gsmith@Yahoo.Com,6299648970,68.0,FEMALE,Hyderabad,TS,consumer,15-Jun-2021
+CUST0293,  Tina Jackson  ,priya97@Yahoo.Com,+91-83890-46078,57.0,f,Ahmedabad,GJ,Consumer,17/06/2021
+CUST0294,  Frank Smith  ,  wendy@GMAIL.COM  ,9880725278,18.0,Female,Chennai,TN,Corporate,06-19-2021
+CUST0295,Zoe  Garcia,uma.jackson@GMAIL.COM,+91-71968-48277,200.0,male,Bangalore,KA,home office,21-Jun-2021
+CUST0296,  Henry Taylor  ,priya13@Yahoo.Com,+91-66299-77010,,f,Toronto,ON,home office,23-Jun-2021
+CUST0297,Iris  Thomas,henry42@outlook.com,918551232519,200.0,Other,Chennai,TN,Home Office,06-25-2021
+CUST0298,Rachel  Wilson,yara50@hotmail.com,09498784578,200.0,F,Pune,MH,consumer,06-26-2021
+CUST0299,  Priya Davis  ,mwhite@hotmail.com,6454601784,-5.0,Other,New York,NY,consumer,2021-06-28
+CUST0300,Nick  Wilson,quinn.lee@Yahoo.Com,917160170716,40.0,FEMALE,Hyderabad,TS,CORPORATE,2021-06-30
+CUST0301,Uma  Shah,,N/A,51.0,Other,London,LDN,Corporate,02-Jul-2021
+CUST0302,VICTOR HARRIS,priya.davis@gmail.com,+91-92949-95530,,Female,Surat,GJ,home office,2021-07-04
+CUST0303,  Quinn Shah  ,  alice@hotmail.com  ,08977516280,-5.0,f,Hyderabad,TS,Corporate,06-Jul-2021
+CUST0304,Rahul Brown,mshah@GMAIL.COM,99999999999999,,Female,London,LDN,consumer,07-Jul-2021
+CUST0305,Rachel  Shah,xbrown@Yahoo.Com,99999999999999,68.0,Male,Mumbai,MH,CORPORATE,07-09-2021
+CUST0306,  Peter Jones  ,priya29@yahoo.com,,59.0,male,Delhi,DL,CORPORATE,11-Jul-2021
+CUST0307,Uma  Thompson,,06313867761,-5.0,female,Bangalore,KA,consumer,13-Jul-2021
+CUST0308,Victor  Patel,,,,Female,Jaipur,RJ,home office,15-Jul-2021
+CUST0309,NICK HARRIS,UMA@OUTLOOK.COM,07607692567,200.0,male,London,LDN,home office,2021-07-16
+CUST0310,Sneha Williams,henry98@yahoo.com,+91-84468-86458,42.0,Female,Surat,GJ,Corporate,2021-07-18
+CUST0311,VICTOR TAYLOR,TINA@GMAIL.COM,N/A,-5.0,Female,Ahmedabad,GJ,Corporate,20/07/2021
+CUST0312,bob davis,twhite@GMAIL.COM,06371992483,41.0,Male,London,LDN,CORPORATE,07-22-2021
+CUST0313,Iris Lee,arjun.williams@GMAIL.COM,918313377873,55.0,M,Hyderabad,TS,CORPORATE,24/07/2021
+CUST0314,ALICE WALKER,UMA@GMAIL.COM,+91-68158-58075,41.0,Other,Sydney,NSW,Home Office,26-Jul-2021
+CUST0315,Amit Williams,zthompson@yahoo.com,,,female,London,LDN,consumer,27-Jul-2021
+CUST0316,alice patel,,9448443704,-5.0,female,Chennai,TN,Consumer,29/07/2021
+CUST0317,Alice  Taylor,  iris@Yahoo.Com  ,917952970198,63.0,Male,Bangalore,KA,consumer,07-31-2021
+CUST0318,  Leo Thomas  ,mia.williams@GMAIL.COM,99999999999999,200.0,Female,Pune,MH,CORPORATE,02-Aug-2021
+CUST0319,ARJUN THOMAS,  arjun@yahoo.com  ,7109588354,-5.0,M,New York,NY,Consumer,04-Aug-2021
+CUST0320,Pooja Patel,YARA@GMAIL.COM,N/A,-5.0,FEMALE,Delhi,DL,consumer,2021-08-06
+CUST0321,Zoe Patel,,99999999999999,,Other,Bangalore,KA,Consumer,07-Aug-2021
+CUST0322,frank thompson,tina.smith@outlook.com,+91-63670-63493,66.0,m,Bangalore,KA,CORPORATE,09-Aug-2021
+CUST0323,eve jackson,zoe.miller@GMAIL.COM,,200.0,female,Pune,MH,Consumer,11-Aug-2021
+CUST0324,BOB DAVIS,alice.jackson@hotmail.com,,,F,Ahmedabad,GJ,home office,13/08/2021
+CUST0325,rahul davis,  tina@gmail.com  ,916164183056,-5.0,female,Bangalore,KA,Corporate,2021-08-15
+CUST0326,  Henry Wilson  ,steve53@hotmail.com,N/A,,F,Mumbai,MH,home office,17-Aug-2021
+CUST0327,WENDY BROWN,,06235106204,63.0,f,New York,NY,Consumer,08-18-2021
+CUST0328,Yara  Moore,  priya@hotmail.com  ,N/A,,male,Ahmedabad,GJ,Home Office,20-Aug-2021
+CUST0329,  Wendy Williams  ,,08964926282,19.0,F,Kolkata,WB,Home Office,22-Aug-2021
+CUST0330,YARA BROWN,,,38.0,MALE,Pune,MH,consumer,08-24-2021
+CUST0331,LEO WILLIAMS,RAHUL@GMAIL.COM,,200.0,Other,Mumbai,MH,Home Office,08-26-2021
+CUST0332,ALICE TAYLOR,,7369183038,-5.0,f,Bangalore,KA,consumer,08-28-2021
+CUST0333,Henry Lee,nick.davis@gmail.com,09858733870,60.0,Male,Hyderabad,TS,home office,2021-08-29
+CUST0334,SNEHA MILLER,,,200.0,F,Delhi,DL,Home Office,2021-08-31
+CUST0335,Xander Brown,  karen@outlook.com  ,N/A,27.0,male,Bangalore,KA,Home Office,2021-09-02
+CUST0336,MIA LEE,fdavis@yahoo.com,917683708118,20.0,m,New York,NY,CORPORATE,04/09/2021
+CUST0337,  Rahul Anderson  ,,08886411102,200.0,Male,Toronto,ON,CORPORATE,09-06-2021
+CUST0338,Alice Jones,  victor@gmail.com  ,N/A,,Female,Sydney,NSW,Home Office,09-07-2021
+CUST0339,  Olivia Taylor  ,frank31@gmail.com,N/A,200.0,male,Mumbai,MH,Home Office,2021-09-09
+CUST0340,bob thomas,peter.williams@gmail.com,917582522615,-5.0,female,Surat,GJ,consumer,09-11-2021
+CUST0341,Rachel Lee,,918681544961,200.0,MALE,Pune,MH,CORPORATE,13-Sep-2021
+CUST0342,Wendy Smith,olivia.johnson@yahoo.com,99999999999999,47.0,male,Ahmedabad,GJ,consumer,2021-09-15
+CUST0343,Mia  Moore,MIA@OUTLOOK.COM,+91-98877-59003,64.0,m,Surat,GJ,consumer,17-Sep-2021
+CUST0344,Frank Johnson,JACK@GMAIL.COM,99999999999999,38.0,f,Mumbai,MH,home office,09-18-2021
+CUST0084,  Tina Lee  ,BOB@YAHOO.COM,N/A,67.0,female,Ahmedabad,GJ,CORPORATE,09-20-2021
+CUST0346,Olivia  Thompson,,,-5.0,Female,Sydney,NSW,home office,22-Sep-2021
+CUST0347,OLIVIA MILLER,peter39@yahoo.com,N/A,33.0,Female,Chennai,TN,CORPORATE,09-24-2021
+CUST0348,Pooja Thomas,  amit@GMAIL.COM  ,N/A,,female,Ahmedabad,GJ,home office,2021-09-26
+CUST0326,XANDER JACKSON,EVE@HOTMAIL.COM,N/A,26.0,male,Delhi,DL,CORPORATE,28/09/2021
+CUST0350,charlie taylor,,917758245879,63.0,FEMALE,Mumbai,MH,CORPORATE,29/09/2021
+CUST0351,RACHEL ANDERSON,  arjun@outlook.com  ,,200.0,female,Sydney,NSW,home office,01/10/2021
+CUST0352,Pooja Shah,,8218609961,44.0,male,Mumbai,MH,CORPORATE,10-03-2021
+CUST0353,NICK JONES,,99999999999999,29.0,M,Surat,GJ,Corporate,2021-10-05
+CUST0354,Alice Martin,pjackson@outlook.com,99999999999999,46.0,Other,New York,NY,consumer,2021-10-07
+CUST0355,Mia Shah,ZOE@YAHOO.COM,6316980704,200.0,f,Hyderabad,TS,Home Office,10-09-2021
+CUST0356,Zoe  Walker,pharris@yahoo.com,9305746804,,MALE,Sydney,NSW,Consumer,2021-10-10
+CUST0357,  Henry Lee  ,JACK@OUTLOOK.COM,,,f,Chennai,TN,home office,10-12-2021
+CUST0358,RACHEL DAVIS,ALICE@OUTLOOK.COM,09806437569,-5.0,M,Jaipur,RJ,consumer,14/10/2021
+CUST0359,POOJA BROWN,gjones@outlook.com,918152705290,52.0,m,Jaipur,RJ,Home Office,2021-10-16
+CUST0360,  Karen Thomas  ,priya.miller@hotmail.com,,,Other,Bangalore,KA,CORPORATE,10-18-2021
+CUST0361,MIA SMITH,OLIVIA@HOTMAIL.COM,+91-61140-51099,68.0,MALE,Toronto,ON,CORPORATE,2021-10-20
+CUST0362,Leo  Thompson,  leo@gmail.com  ,9993436624,200.0,female,Bangalore,KA,CORPORATE,21-Oct-2021
+CUST0363,eve white,sneha.shah@GMAIL.COM,,68.0,M,Toronto,ON,home office,23-Oct-2021
+CUST0364,  Iris Taylor  ,DIANA@YAHOO.COM,N/A,50.0,MALE,Delhi,DL,Consumer,25-Oct-2021
+CUST0365,  Eve Jones  ,  peter@GMAIL.COM  ,919982644252,47.0,FEMALE,Delhi,DL,Home Office,10-27-2021
+CUST0366,iris moore,henry.miller@hotmail.com,N/A,,female,Hyderabad,TS,home office,2021-10-29
+CUST0367,  Quinn Davis  ,sneha.miller@yahoo.com,8668031793,29.0,m,Toronto,ON,Home Office,30-Oct-2021
+CUST0368,Olivia Harris,IRIS@YAHOO.COM,916995990847,38.0,Male,London,LDN,Home Office,2021-11-01
+CUST0369,rachel shah,SNEHA@OUTLOOK.COM,N/A,200.0,Other,Pune,MH,Home Office,11-03-2021
+CUST0370,Mia White,  uma@hotmail.com  ,,20.0,Other,Ahmedabad,GJ,CORPORATE,05-Nov-2021
+CUST0371,BOB JONES,rthompson@Yahoo.Com,07670866707,40.0,MALE,Ahmedabad,GJ,CORPORATE,07-Nov-2021
+CUST0372,Quinn Walker,  priya@hotmail.com  ,N/A,39.0,MALE,London,LDN,Corporate,11-09-2021
+CUST0373,Sneha Moore,  rahul@gmail.com  ,,29.0,male,Pune,MH,Home Office,2021-11-10
+CUST0374,Alice  Jones,ktaylor@yahoo.com,,200.0,Female,Jaipur,RJ,Home Office,12-Nov-2021
+CUST0375,PRIYA SHAH,amit73@gmail.com,9901127771,-5.0,Male,Hyderabad,TS,Corporate,2021-11-14
+CUST0376,Diana  Johnson,RAHUL@GMAIL.COM,08824230874,200.0,Female,New York,NY,CORPORATE,16/11/2021
+CUST0377,UMA WALKER,  quinn@GMAIL.COM  ,+91-92117-79101,,F,Ahmedabad,GJ,Corporate,11-18-2021
+CUST0378,Priya Taylor,pmoore@yahoo.com,07690520920,33.0,FEMALE,Hyderabad,TS,Home Office,20-Nov-2021
+CUST0379,  Arjun Moore  ,rachel73@outlook.com,+91-88060-19487,56.0,Male,Pune,MH,Home Office,11-21-2021
+CUST0380,  Rachel Martin  ,,919478305093,43.0,f,Ahmedabad,GJ,Corporate,23/11/2021
+CUST0381,  Henry Brown  ,  peter@hotmail.com  ,08499130788,200.0,M,Mumbai,MH,Home Office,11-25-2021
+CUST0382,Sneha  Wilson,  rachel@Yahoo.Com  ,,45.0,Female,Sydney,NSW,CORPORATE,11-27-2021
+CUST0383,pooja lee,rahul46@Yahoo.Com,+91-87532-78884,54.0,Other,Pune,MH,home office,29-Nov-2021
+CUST0384,Xander  Harris,  eve@Yahoo.Com  ,99999999999999,28.0,F,Hyderabad,TS,consumer,01/12/2021
+CUST0385,Charlie  Patel,steve.garcia@GMAIL.COM,08486556226,62.0,Male,London,LDN,Home Office,02-Dec-2021
+CUST0386,olivia miller,,9526372748,66.0,Other,Pune,MH,Home Office,2021-12-04
+CUST0387,DIANA HARRIS,rachel53@gmail.com,N/A,60.0,Female,Jaipur,RJ,CORPORATE,06/12/2021
+CUST0388,  Rachel Moore  ,,+91-66557-78818,37.0,FEMALE,Toronto,ON,consumer,12-08-2021
+CUST0389,ARJUN THOMAS,UMA@GMAIL.COM,918107053228,-5.0,f,New York,NY,home office,12-10-2021
+CUST0195,rahul johnson,FRANK@HOTMAIL.COM,99999999999999,,FEMALE,Sydney,NSW,home office,2021-12-12
+CUST0391,Uma Taylor,  iris@Yahoo.Com  ,99999999999999,29.0,Other,Sydney,NSW,Corporate,12-13-2021
+CUST0392,Alice  Jones,jack.shah@outlook.com,N/A,23.0,f,Sydney,NSW,CORPORATE,15-Dec-2021
+CUST0393,  Zoe Miller  ,olivia.thompson@GMAIL.COM,7201240032,,Other,Surat,GJ,Corporate,17/12/2021
+CUST0394,MIA DAVIS,ysmith@GMAIL.COM,+91-94818-82460,200.0,Female,Ahmedabad,GJ,home office,2021-12-19
+CUST0395,VICTOR JOHNSON,JACK@HOTMAIL.COM,917384528891,-5.0,f,Delhi,DL,Home Office,2021-12-21
+CUST0396,  Frank Garcia  ,nick.shah@outlook.com,917350175561,-5.0,MALE,Hyderabad,TS,Corporate,12-22-2021
+CUST0397,Bob  Harris,eve20@GMAIL.COM,N/A,,FEMALE,New York,NY,home office,12-24-2021
+CUST0398,Olivia Thomas,amiller@GMAIL.COM,+91-97110-28819,-5.0,F,Jaipur,RJ,home office,2021-12-26
+CUST0399,PRIYA MOORE,arjun.anderson@hotmail.com,916876938677,47.0,FEMALE,London,LDN,Home Office,28-Dec-2021
+CUST0400,  Eve Shah  ,VICTOR@OUTLOOK.COM,09285652633,26.0,F,New York,NY,home office,30-Dec-2021
+CUST0401,PETER GARCIA,sdavis@Yahoo.Com,,38.0,FEMALE,Mumbai,MH,CORPORATE,01/01/2022
+CUST0402,Mia  Smith,,,-5.0,F,Bangalore,KA,CORPORATE,01-02-2022
+CUST0403,Karen  Thompson,  diana@gmail.com  ,99999999999999,56.0,MALE,Kolkata,WB,Home Office,2022-01-04
+CUST0404,Victor Thomas,nick.thomas@GMAIL.COM,916927749187,,F,Sydney,NSW,Corporate,01-06-2022
+CUST0405,  Tina Taylor  ,arjun90@gmail.com,08977399222,200.0,FEMALE,Chennai,TN,consumer,01-08-2022
+CUST0406,  Eve Jackson  ,,99999999999999,33.0,m,New York,NY,CORPORATE,10-Jan-2022
+CUST0407,grace shah,BOB@GMAIL.COM,,41.0,female,Bangalore,KA,CORPORATE,01-12-2022
+CUST0408,  Bob Harris  ,,99999999999999,-5.0,female,Pune,MH,Corporate,13/01/2022
+CUST0409,  Amit Anderson  ,amit.lee@outlook.com,919158119446,59.0,f,Ahmedabad,GJ,Consumer,15-Jan-2022
+CUST0410,PRIYA THOMAS,ALICE@YAHOO.COM,N/A,30.0,male,Mumbai,MH,home office,17-Jan-2022
+CUST0411,Bob Thomas,wendy5@Yahoo.Com,N/A,23.0,Male,Chennai,TN,home office,01-19-2022
+CUST0412,victor williams,TINA@GMAIL.COM,7264494545,-5.0,FEMALE,Surat,GJ,Home Office,21-Jan-2022
+CUST0413,  Quinn Martin  ,yara.jones@Yahoo.Com,99999999999999,-5.0,M,London,LDN,home office,23/01/2022
+CUST0414,PETER MOORE,arjun73@yahoo.com,06338462628,61.0,F,London,LDN,Corporate,2022-01-24
+CUST0415,grace moore,OLIVIA@OUTLOOK.COM,08944356532,44.0,F,Kolkata,WB,Corporate,26/01/2022
+CUST0416,Amit Miller,,917241936908,43.0,FEMALE,Pune,MH,CORPORATE,28-Jan-2022
+CUST0417,Peter Thompson,olivia.jones@Yahoo.Com,N/A,23.0,M,Chennai,TN,home office,30/01/2022
+CUST0418,Victor Thomas,rachel.martin@Yahoo.Com,06688574163,,F,London,LDN,Home Office,01-Feb-2022
+CUST0419,diana brown,priya.brown@outlook.com,08191352864,43.0,F,Delhi,DL,Corporate,02-03-2022
+CUST0420,Victor  Jones,POOJA@GMAIL.COM,,200.0,F,Chennai,TN,home office,04-Feb-2022
+CUST0421,peter taylor,bob.walker@outlook.com,+91-79182-26618,-5.0,male,Kolkata,WB,consumer,2022-02-06
+CUST0422,Eve Lee,  yara@hotmail.com  ,+91-97005-39700,,male,New York,NY,Home Office,08/02/2022
+CUST0423,RAHUL JOHNSON,  victor@hotmail.com  ,,43.0,M,Delhi,DL,Corporate,02-10-2022
+CUST0424,grace moore,ZOE@YAHOO.COM,N/A,,M,Hyderabad,TS,consumer,12-Feb-2022
+CUST0425,RAHUL WHITE,KAREN@OUTLOOK.COM,7360183853,-5.0,Male,New York,NY,consumer,13/02/2022
+CUST0426,Henry  Patel,sneha.moore@yahoo.com,08934052476,-5.0,male,New York,NY,home office,15/02/2022
+CUST0427,Frank Garcia,  iris@hotmail.com  ,N/A,52.0,FEMALE,Jaipur,RJ,Home Office,17/02/2022
+CUST0428,Diana Lee,  bob@yahoo.com  ,,-5.0,M,Ahmedabad,GJ,CORPORATE,02-19-2022
+CUST0429,CHARLIE JONES,zoe.taylor@hotmail.com,919554773258,,Other,Jaipur,RJ,consumer,21-Feb-2022
+CUST0326,Yara  White,bsmith@hotmail.com,918304536802,18.0,male,Bangalore,KA,CORPORATE,23-Feb-2022
+CUST0431,Uma Harris,frank.wilson@gmail.com,,55.0,M,Hyderabad,TS,Home Office,02-24-2022
+CUST0432,eve moore,PRIYA@OUTLOOK.COM,916926438998,,FEMALE,New York,NY,Corporate,2022-02-26
+CUST0296,IRIS JONES,iris.thompson@GMAIL.COM,N/A,-5.0,Male,Pune,MH,Home Office,28/02/2022
+CUST0434,Diana  Miller,SNEHA@GMAIL.COM,+91-97691-36744,-5.0,M,Pune,MH,CORPORATE,02-Mar-2022
+CUST0435,RAHUL MILLER,lwilliams@GMAIL.COM,99999999999999,200.0,Other,Kolkata,WB,Consumer,03-04-2022
+CUST0436,Diana Miller,  diana@gmail.com  ,,-5.0,male,Surat,GJ,Home Office,03-06-2022
+CUST0437,TINA PATEL,QUINN@GMAIL.COM,99999999999999,39.0,male,Kolkata,WB,Consumer,07/03/2022
+CUST0438,priya smith,yara67@GMAIL.COM,,29.0,f,Hyderabad,TS,consumer,03-09-2022
+CUST0439,Eve Anderson,uma22@outlook.com,N/A,-5.0,male,Hyderabad,TS,CORPORATE,11/03/2022
+CUST0440,Grace  Lee,  nick@hotmail.com  ,99999999999999,38.0,female,Chennai,TN,consumer,13-Mar-2022
+CUST0441,Diana  Brown,  sneha@gmail.com  ,918114746008,,Female,Mumbai,MH,Consumer,15/03/2022
+CUST0442,Diana Shah,  uma@outlook.com  ,06427618008,-5.0,Male,Surat,GJ,Consumer,2022-03-17
+CUST0443,Steve  Jones,victor33@hotmail.com,919124425601,200.0,M,Jaipur,RJ,Corporate,18/03/2022
+CUST0444,  Yara Thomas  ,YARA@OUTLOOK.COM,N/A,26.0,F,London,LDN,Home Office,20/03/2022
+CUST0445,Zoe Jackson,rachel14@outlook.com,N/A,45.0,male,Pune,MH,consumer,2022-03-22
+CUST0446,Grace Shah,amoore@gmail.com,08689269569,200.0,MALE,Sydney,NSW,consumer,24/03/2022
+CUST0447,arjun garcia,  quinn@outlook.com  ,,200.0,FEMALE,Surat,GJ,CORPORATE,03-26-2022
+CUST0448,Olivia Johnson,FRANK@OUTLOOK.COM,N/A,54.0,female,Delhi,DL,CORPORATE,28-Mar-2022
+CUST0449,alice brown,AMIT@HOTMAIL.COM,+91-63742-94163,41.0,Male,Kolkata,WB,Home Office,29-Mar-2022
+CUST0450,Sneha Anderson,bob41@outlook.com,+91-64049-57218,56.0,F,Toronto,ON,CORPORATE,31-Mar-2022
+CUST0451,yara harris,,08156999852,42.0,M,Ahmedabad,GJ,CORPORATE,02-Apr-2022
+CUST0452,sneha garcia,wendy74@outlook.com,06171508836,65.0,male,Surat,GJ,consumer,2022-04-04
+CUST0453,  Priya Johnson  ,  olivia@outlook.com  ,99999999999999,43.0,MALE,Toronto,ON,Corporate,06/04/2022
+CUST0454,Grace  Brown,eve73@gmail.com,8215847550,,m,Toronto,ON,Home Office,08/04/2022
+CUST0455,VICTOR MARTIN,,08797299908,65.0,MALE,Pune,MH,Consumer,04-09-2022
+CUST0456,bob patel,  bob@gmail.com  ,N/A,54.0,female,Hyderabad,TS,consumer,11/04/2022
+CUST0457,  Sneha Taylor  ,,06438718269,200.0,female,Delhi,DL,home office,2022-04-13
+CUST0458,victor lee,  mia@outlook.com  ,+91-63001-64147,68.0,F,Mumbai,MH,consumer,04-15-2022
+CUST0459,MIA JACKSON,bob39@Yahoo.Com,,54.0,f,Ahmedabad,GJ,CORPORATE,04-17-2022
+CUST0187,Grace Jones,,+91-61426-83817,,F,New York,NY,Consumer,18/04/2022
+CUST0461,grace patel,  peter@outlook.com  ,08458167668,29.0,M,Bangalore,KA,consumer,2022-04-20
+CUST0462,  Alice Thomas  ,  iris@outlook.com  ,+91-98992-83454,200.0,M,Ahmedabad,GJ,consumer,22-Apr-2022
+CUST0463,Eve  Davis,  amit@GMAIL.COM  ,,61.0,male,New York,NY,consumer,2022-04-24
+CUST0464,Mia Johnson,,,18.0,F,Bangalore,KA,Home Office,2022-04-26
+CUST0465,Iris  Brown,nick.thompson@GMAIL.COM,N/A,,Other,Jaipur,RJ,Consumer,2022-04-28
+CUST0466,QUINN DAVIS,,8971763327,-5.0,Male,Hyderabad,TS,Corporate,04-29-2022
+CUST0467,Wendy Thomas,QUINN@YAHOO.COM,99999999999999,58.0,FEMALE,Surat,GJ,Corporate,05-01-2022
+CUST0468,Arjun  Harris,,916695861587,24.0,Female,Jaipur,RJ,Consumer,2022-05-03
+CUST0469,  Amit Moore  ,kpatel@outlook.com,917262895422,63.0,Female,New York,NY,Home Office,05-May-2022
+CUST0470,  Rahul Walker  ,henry.jackson@gmail.com,+91-98053-75110,,FEMALE,Bangalore,KA,Consumer,05-07-2022
+CUST0471,Leo  Garcia,,06883713061,200.0,F,Hyderabad,TS,Consumer,2022-05-09
+CUST0472,Peter Patel,,+91-75481-08259,56.0,f,Ahmedabad,GJ,Consumer,10-May-2022
+CUST0473,iris thomas,glee@yahoo.com,917557913296,200.0,MALE,Hyderabad,TS,Home Office,12/05/2022
+CUST0474,CHARLIE SHAH,,N/A,39.0,male,Delhi,DL,Consumer,14/05/2022
+CUST0475,DIANA SHAH,tina65@Yahoo.Com,,70.0,female,Toronto,ON,CORPORATE,2022-05-16
+CUST0476,  Iris Williams  ,yara.anderson@gmail.com,N/A,65.0,m,Hyderabad,TS,CORPORATE,2022-05-18
+CUST0477,Tina White,zoe.moore@outlook.com,917248294102,,F,Mumbai,MH,Home Office,05-20-2022
+CUST0478,Priya Patel,mjones@hotmail.com,99999999999999,42.0,female,Ahmedabad,GJ,Corporate,21-May-2022
+CUST0479,WENDY THOMAS,  eve@yahoo.com  ,N/A,,M,Mumbai,MH,Consumer,2022-05-23
+CUST0480,TINA WILSON,  peter@outlook.com  ,7440908961,49.0,F,Chennai,TN,home office,25/05/2022
+CUST0481,JACK PATEL,gwhite@hotmail.com,916297713683,51.0,Male,Hyderabad,TS,home office,2022-05-27
+CUST0482,JACK PATEL,tina.johnson@Yahoo.Com,7880695706,66.0,MALE,Sydney,NSW,consumer,05-29-2022
+CUST0483,Amit  White,,08544572227,46.0,Other,Surat,GJ,Corporate,05-31-2022
+CUST0484,Tina  Anderson,CHARLIE@YAHOO.COM,,57.0,male,Delhi,DL,Consumer,01-Jun-2022
+CUST0485,Victor  Smith,wgarcia@GMAIL.COM,99999999999999,-5.0,FEMALE,Mumbai,MH,home office,03/06/2022
+CUST0486,Steve  Brown,priya60@outlook.com,+91-72146-44955,19.0,Other,Ahmedabad,GJ,CORPORATE,05-Jun-2022
+CUST0487,xander brown,xander24@Yahoo.Com,99999999999999,65.0,MALE,Hyderabad,TS,Consumer,07/06/2022
+CUST0488,  Alice Williams  ,  eve@Yahoo.Com  ,N/A,-5.0,Other,Mumbai,MH,Consumer,09/06/2022
+CUST0489,JACK BROWN,victor79@Yahoo.Com,+91-77403-37419,-5.0,f,Kolkata,WB,Consumer,2022-06-10
+CUST0490,diana harris,  alice@GMAIL.COM  ,7838066391,200.0,M,Pune,MH,Home Office,12/06/2022
+CUST0491,peter patel,arjun28@Yahoo.Com,,,f,New York,NY,CORPORATE,14/06/2022
+CUST0492,diana shah,POOJA@YAHOO.COM,N/A,44.0,Female,Sydney,NSW,home office,06-16-2022
+CUST0493,Priya  Martin,gbrown@GMAIL.COM,,200.0,f,Mumbai,MH,Home Office,18-Jun-2022
+CUST0494,  Wendy Davis  ,priya.taylor@yahoo.com,99999999999999,67.0,male,Mumbai,MH,Home Office,20-Jun-2022
+CUST0495,Mia Smith,XANDER@YAHOO.COM,09627685695,,m,Hyderabad,TS,consumer,06-21-2022
+CUST0496,  Mia Lee  ,  sneha@hotmail.com  ,+91-72758-64280,58.0,MALE,Bangalore,KA,Corporate,2022-06-23
+CUST0497,MIA LEE,jack.walker@outlook.com,07134606221,-5.0,FEMALE,Pune,MH,Corporate,25-Jun-2022
+CUST0498,EVE LEE,PRIYA@HOTMAIL.COM,06389758574,-5.0,FEMALE,Hyderabad,TS,Corporate,06-27-2022
+CUST0499,Victor  Harris,lgarcia@Yahoo.Com,,70.0,male,Toronto,ON,CORPORATE,2022-06-29
+CUST0500,Mia  Wilson,,+91-79136-56416,29.0,FEMALE,Sydney,NSW,CORPORATE,07-01-2022
+CUST0501,Amit Brown,amit16@hotmail.com,06290136266,-5.0,f,Jaipur,RJ,CORPORATE,02-Jul-2022
+CUST0502,SNEHA LEE,smoore@gmail.com,919838586956,59.0,F,New York,NY,Home Office,04-Jul-2022
+CUST0503,Victor  Garcia,  priya@GMAIL.COM  ,09364982130,-5.0,Female,Toronto,ON,CORPORATE,06/07/2022
+CUST0504,  Victor Thomas  ,  rachel@yahoo.com  ,9933454210,,Male,Jaipur,RJ,Home Office,07-08-2022
+CUST0505,Tina Harris,,919873309842,57.0,F,Bangalore,KA,Corporate,10/07/2022
+CUST0506,Arjun Patel,peter83@Yahoo.Com,,57.0,FEMALE,Delhi,DL,Corporate,07-12-2022
+CUST0507,VICTOR JACKSON,fthompson@yahoo.com,6659042709,-5.0,M,London,LDN,Consumer,13-Jul-2022
+CUST0508,karen moore,  rachel@yahoo.com  ,99999999999999,38.0,female,Hyderabad,TS,CORPORATE,07-15-2022
+CUST0509,Grace  Lee,rahul.walker@gmail.com,N/A,-5.0,female,Bangalore,KA,CORPORATE,07-17-2022
+CUST0510,Sneha Jones,  peter@yahoo.com  ,9889382867,61.0,FEMALE,London,LDN,Home Office,2022-07-19
+CUST0511,  Charlie Brown  ,  sneha@GMAIL.COM  ,99999999999999,,female,Chennai,TN,Corporate,2022-07-21
+CUST0512,Pooja Taylor,  yara@Yahoo.Com  ,916303850254,53.0,FEMALE,Kolkata,WB,Corporate,2022-07-23
+CUST0513,  Olivia Williams  ,victor.white@outlook.com,919527392079,,Other,Surat,GJ,consumer,24/07/2022
+CUST0514,alice thompson,bob98@gmail.com,+91-85953-67749,,F,Delhi,DL,Corporate,07-26-2022
+CUST0515,OLIVIA GARCIA,pooja36@gmail.com,N/A,26.0,MALE,Hyderabad,TS,CORPORATE,28-Jul-2022
+CUST0516,olivia thomas,  uma@hotmail.com  ,N/A,200.0,m,Chennai,TN,CORPORATE,07-30-2022
+CUST0517,SNEHA SMITH,  leo@Yahoo.Com  ,99999999999999,,FEMALE,Mumbai,MH,Consumer,08-01-2022
+CUST0234,Nick Thomas,POOJA@GMAIL.COM,,46.0,f,Ahmedabad,GJ,Corporate,2022-08-02
+CUST0519,peter thompson,nbrown@hotmail.com,99999999999999,47.0,FEMALE,Pune,MH,Consumer,04/08/2022
+CUST0520,Amit  Thompson,,07522052175,56.0,female,Chennai,TN,CORPORATE,06-Aug-2022
+CUST0521,victor martin,  quinn@GMAIL.COM  ,8584135007,33.0,male,Toronto,ON,home office,08-Aug-2022
+CUST0522,yara harris,victor84@Yahoo.Com,N/A,,FEMALE,New York,NY,CORPORATE,2022-08-10
+CUST0523,Nick Williams,rmoore@gmail.com,7588212379,-5.0,Other,New York,NY,Home Office,12-Aug-2022
+CUST0524,Zoe Martin,rachel.anderson@gmail.com,,-5.0,f,Kolkata,WB,consumer,08-13-2022
+CUST0525,LEO LEE,ALICE@YAHOO.COM,,34.0,female,Kolkata,WB,Consumer,08-15-2022
+CUST0526,  Alice Thompson  ,,6197915848,,f,Kolkata,WB,Consumer,2022-08-17
+CUST0527,xander patel,frank79@yahoo.com,919780830076,-5.0,f,Delhi,DL,Corporate,19/08/2022
+CUST0528,  Alice Brown  ,PETER@YAHOO.COM,,48.0,female,Hyderabad,TS,consumer,08-21-2022
+CUST0529,eve miller,ARJUN@GMAIL.COM,99999999999999,,female,Hyderabad,TS,Corporate,23/08/2022
+CUST0530,  Wendy Shah  ,,N/A,-5.0,F,Surat,GJ,Corporate,24/08/2022
+CUST0531,BOB BROWN,pmoore@hotmail.com,99999999999999,,f,Hyderabad,TS,consumer,26-Aug-2022
+CUST0532,Henry Garcia,amit13@Yahoo.Com,N/A,46.0,F,Bangalore,KA,CORPORATE,08-28-2022
+CUST0533,Jack  Walker,,99999999999999,200.0,Male,Surat,GJ,Corporate,30-Aug-2022
+CUST0534,  Steve Garcia  ,rahul17@Yahoo.Com,99999999999999,,FEMALE,Kolkata,WB,Corporate,2022-09-01
+CUST0535,Rahul Smith,bob42@Yahoo.Com,916550522411,,m,New York,NY,Corporate,09-03-2022
+CUST0536,mia thompson,frank63@outlook.com,99999999999999,-5.0,Female,Pune,MH,Home Office,2022-09-04
+CUST0537,xander white,,,24.0,M,Toronto,ON,Consumer,06-Sep-2022
+CUST0538,  Charlie Taylor  ,olivia.jackson@outlook.com,+91-72262-22619,-5.0,male,Surat,GJ,Consumer,08-Sep-2022
+CUST0539,  Bob Brown  ,ZOE@GMAIL.COM,N/A,49.0,f,Bangalore,KA,Corporate,10-Sep-2022
+CUST0540,Mia  Johnson,  peter@Yahoo.Com  ,08113107987,39.0,FEMALE,New York,NY,home office,09-12-2022
+CUST0541,MIA JONES,tina.harris@hotmail.com,N/A,-5.0,Female,Toronto,ON,Home Office,14-Sep-2022
+CUST0542,  Steve Lee  ,,06752817769,54.0,m,Chennai,TN,consumer,2022-09-15
+CUST0543,leo miller,amit.shah@Yahoo.Com,N/A,20.0,F,Hyderabad,TS,CORPORATE,17/09/2022
+CUST0544,Olivia  Patel,  wendy@outlook.com  ,09587197988,27.0,F,Bangalore,KA,CORPORATE,09-19-2022
+CUST0545,Quinn  Garcia,pmiller@outlook.com,N/A,54.0,f,Kolkata,WB,consumer,2022-09-21
+CUST0546,leo williams,VICTOR@HOTMAIL.COM,N/A,,MALE,Jaipur,RJ,consumer,09-23-2022
+CUST0547,victor thompson,wjones@GMAIL.COM,,58.0,Female,Chennai,TN,Corporate,24-Sep-2022
+CUST0548,Peter Wilson,sneha.shah@gmail.com,+91-71525-26165,,F,Hyderabad,TS,Corporate,09-26-2022
+CUST0549,  Leo Johnson  ,rachel.patel@outlook.com,,,M,Hyderabad,TS,Consumer,28-Sep-2022
+CUST0550,Mia  Williams,tina.garcia@outlook.com,+91-81394-28930,56.0,female,Delhi,DL,Consumer,2022-09-30
+CUST0551,  Bob Brown  ,quinn89@yahoo.com,N/A,34.0,MALE,Hyderabad,TS,consumer,2022-10-02
+CUST0552,leo martin,opatel@hotmail.com,8455527819,55.0,male,Surat,GJ,home office,04/10/2022
+CUST0553,Quinn Moore,hwilliams@Yahoo.Com,06216917219,18.0,FEMALE,New York,NY,consumer,05-Oct-2022
+CUST0554,Grace  Anderson,,,,Male,Ahmedabad,GJ,consumer,07/10/2022
+CUST0555,Bob Thompson,,,200.0,F,Jaipur,RJ,Corporate,2022-10-09
+CUST0556,IRIS GARCIA,henry90@Yahoo.Com,,40.0,female,Bangalore,KA,home office,11-Oct-2022
+CUST0557,Yara  Jackson,,8138482956,200.0,female,Kolkata,WB,consumer,13/10/2022
+CUST0558,Henry Shah,  mia@gmail.com  ,918446627326,,Other,Toronto,ON,CORPORATE,10-15-2022
+CUST0301,VICTOR SMITH,nick76@yahoo.com,9980752567,51.0,Male,Sydney,NSW,consumer,10-16-2022
+CUST0560,Nick Davis,amit.martin@Yahoo.Com,9691063829,,FEMALE,Kolkata,WB,Consumer,2022-10-18
+CUST0561,tina moore,rachel.smith@Yahoo.Com,+91-86055-35739,32.0,FEMALE,Delhi,DL,CORPORATE,2022-10-20
+CUST0562,  Sneha Johnson  ,  steve@Yahoo.Com  ,99999999999999,27.0,f,Bangalore,KA,Home Office,22/10/2022
+CUST0563,PETER MARTIN,grace.williams@yahoo.com,N/A,56.0,F,Jaipur,RJ,Corporate,24/10/2022
+CUST0564,Xander  Moore,mbrown@gmail.com,+91-96633-34583,-5.0,m,Ahmedabad,GJ,home office,26/10/2022
+CUST0565,  Xander Shah  ,steve49@yahoo.com,7757187708,47.0,male,London,LDN,consumer,27-Oct-2022
+CUST0566,Karen Thompson,olivia.patel@Yahoo.Com,,200.0,MALE,Pune,MH,consumer,10-29-2022
+CUST0567,PRIYA WHITE,XANDER@GMAIL.COM,,30.0,FEMALE,Jaipur,RJ,CORPORATE,31-Oct-2022
+CUST0568,  Eve Jones  ,lpatel@yahoo.com,N/A,,F,New York,NY,Home Office,02-Nov-2022
+CUST0569,  Henry Lee  ,tina96@Yahoo.Com,N/A,24.0,FEMALE,London,LDN,Home Office,04/11/2022
+CUST0570,Jack Harris,  alice@GMAIL.COM  ,N/A,,f,Pune,MH,Consumer,11-06-2022
+CUST0571,iris taylor,iris13@gmail.com,,52.0,m,Ahmedabad,GJ,consumer,07/11/2022
+CUST0572,  Mia Martin  ,  rachel@GMAIL.COM  ,99999999999999,54.0,female,Pune,MH,CORPORATE,11-09-2022
+CUST0573,  Mia Anderson  ,charlie41@outlook.com,+91-77543-44451,,Other,Kolkata,WB,CORPORATE,11-11-2022
+CUST0574,Yara  Walker,diana.davis@hotmail.com,8307828574,62.0,female,Ahmedabad,GJ,consumer,13/11/2022
+CUST0170,  Xander Thompson  ,STEVE@GMAIL.COM,06125755631,-5.0,f,Kolkata,WB,consumer,2022-11-15
+CUST0576,Uma Martin,iris.walker@hotmail.com,99999999999999,56.0,f,Kolkata,WB,CORPORATE,17-Nov-2022
+CUST0577,Priya Miller,POOJA@HOTMAIL.COM,N/A,,Female,Ahmedabad,GJ,Corporate,11-18-2022
+CUST0578,PETER BROWN,,9544573290,64.0,MALE,Mumbai,MH,Home Office,20/11/2022
+CUST0579,Charlie Shah,alice.thomas@hotmail.com,N/A,37.0,Male,Jaipur,RJ,Corporate,22-Nov-2022
+CUST0580,  Mia Johnson  ,steve.davis@outlook.com,,200.0,female,Mumbai,MH,home office,24-Nov-2022
+CUST0581,  Steve Davis  ,AMIT@OUTLOOK.COM,917840900181,200.0,m,Toronto,ON,Consumer,26/11/2022
+CUST0582,JACK JOHNSON,awilliams@GMAIL.COM,8948465967,,m,Kolkata,WB,CORPORATE,2022-11-27
+CUST0583,  Uma Miller  ,RAHUL@YAHOO.COM,N/A,22.0,MALE,Delhi,DL,home office,2022-11-29
+CUST0584,peter jones,,8923594990,23.0,female,Toronto,ON,home office,01/12/2022
+CUST0585,Diana Moore,leo.garcia@outlook.com,916836410568,52.0,M,Bangalore,KA,consumer,2022-12-03
+CUST0586,rachel miller,diana.smith@GMAIL.COM,,200.0,M,Surat,GJ,Corporate,05-Dec-2022
+CUST0587,iris jones,quinn.wilson@yahoo.com,+91-69933-99121,18.0,Male,Hyderabad,TS,consumer,07/12/2022
+CUST0588,Pooja  Walker,,99999999999999,,MALE,Toronto,ON,Corporate,12-08-2022
+CUST0589,  Nick Thompson  ,,08822062338,,MALE,Chennai,TN,Corporate,10/12/2022
+CUST0590,FRANK MILLER,EVE@GMAIL.COM,9956045379,57.0,female,Surat,GJ,Home Office,2022-12-12
+CUST0591,  Amit Lee  ,zthompson@GMAIL.COM,+91-76170-01884,200.0,male,Jaipur,RJ,Home Office,14-Dec-2022
+CUST0592,Eve Anderson,POOJA@HOTMAIL.COM,919676564508,49.0,MALE,Pune,MH,consumer,16-Dec-2022
+CUST0593,karen wilson,emiller@yahoo.com,99999999999999,200.0,Male,Bangalore,KA,Home Office,12-18-2022
+CUST0594,  Yara Jones  ,,9897344195,37.0,Male,Surat,GJ,Corporate,19/12/2022
+CUST0595,Xander Walker,jshah@Yahoo.Com,,39.0,Other,Jaipur,RJ,home office,2022-12-21
+CUST0596,Pooja  Jackson,jack.jackson@Yahoo.Com,N/A,50.0,Other,Surat,GJ,Home Office,12-23-2022
+CUST0597,SNEHA WILLIAMS,tina.davis@gmail.com,N/A,46.0,M,Hyderabad,TS,Corporate,25/12/2022
+CUST0598,  Leo Thompson  ,frank.white@GMAIL.COM,99999999999999,200.0,Female,Mumbai,MH,consumer,2022-12-27
+CUST0599,UMA WILSON,,+91-81710-95709,49.0,FEMALE,Toronto,ON,CORPORATE,2022-12-29
+CUST0600,XANDER WILSON,,918133471933,,F,Sydney,NSW,consumer,30-Dec-2022
+CUST0601,amit thomas,arjun2@Yahoo.Com,N/A,46.0,male,Kolkata,WB,Consumer,01-Jan-2023
+CUST0602,Pooja  Patel,OLIVIA@HOTMAIL.COM,N/A,61.0,F,Bangalore,KA,home office,03-Jan-2023
+CUST0603,Amit Garcia,yara48@yahoo.com,N/A,67.0,Other,Kolkata,WB,CORPORATE,2023-01-05
+CUST0167,Rachel  Thomas,rahul.wilson@Yahoo.Com,99999999999999,50.0,M,New York,NY,Corporate,07/01/2023
+CUST0371,  Zoe White  ,RAHUL@OUTLOOK.COM,99999999999999,-5.0,m,Mumbai,MH,home office,09/01/2023
+CUST0606,Charlie Williams,TINA@HOTMAIL.COM,8862184916,200.0,male,Ahmedabad,GJ,home office,10/01/2023
+CUST0607,nick wilson,  priya@gmail.com  ,8544389067,54.0,f,Toronto,ON,Consumer,01-12-2023
+CUST0608,  Olivia Shah  ,  tina@hotmail.com  ,919355166423,-5.0,F,Toronto,ON,consumer,01-14-2023
+CUST0609,  Mia Jackson  ,diana48@yahoo.com,919990623169,200.0,FEMALE,Sydney,NSW,home office,16-Jan-2023
+CUST0610,RAHUL JONES,,917663822282,200.0,Female,Jaipur,RJ,Consumer,18-Jan-2023
+CUST0611,Peter Thompson,NICK@YAHOO.COM,917220507410,-5.0,MALE,Ahmedabad,GJ,consumer,19/01/2023
+CUST0612,ZOE MILLER,nick2@gmail.com,+91-69351-46073,64.0,F,Sydney,NSW,CORPORATE,21-Jan-2023
+CUST0613,Nick Williams,  quinn@outlook.com  ,N/A,37.0,MALE,Mumbai,MH,Home Office,23/01/2023
+CUST0614,  Tina Patel  ,FRANK@YAHOO.COM,06957946858,,female,Delhi,DL,Home Office,25/01/2023
+CUST0615,priya wilson,kpatel@outlook.com,917304238238,-5.0,f,Mumbai,MH,consumer,01-27-2023
+CUST0616,yara patel,pdavis@outlook.com,99999999999999,-5.0,F,Hyderabad,TS,Consumer,29/01/2023
+CUST0297,KAREN PATEL,lwilson@gmail.com,918932722445,-5.0,MALE,Sydney,NSW,consumer,30-Jan-2023
+CUST0618,Xander Miller,eve.brown@GMAIL.COM,99999999999999,,male,New York,NY,consumer,01/02/2023
+CUST0619,QUINN ANDERSON,karen.garcia@yahoo.com,N/A,47.0,f,Delhi,DL,home office,03-Feb-2023
+CUST0620,Frank Lee,athomas@gmail.com,,70.0,male,Pune,MH,consumer,05/02/2023
+CUST0621,iris shah,ARJUN@HOTMAIL.COM,06593243074,63.0,FEMALE,Surat,GJ,consumer,2023-02-07
+CUST0622,  Frank Patel  ,rahul48@gmail.com,916104412943,19.0,Male,Delhi,DL,Consumer,02-09-2023
+CUST0623,Steve Martin,,99999999999999,42.0,Female,Sydney,NSW,consumer,02-10-2023
+CUST0624,rahul walker,swalker@yahoo.com,06457867151,53.0,Male,Hyderabad,TS,Home Office,12/02/2023
+CUST0625,  Wendy Garcia  ,charlie99@outlook.com,N/A,200.0,FEMALE,Surat,GJ,Home Office,14-Feb-2023
+CUST0626,  Olivia Jackson  ,olivia.thompson@yahoo.com,N/A,46.0,m,Ahmedabad,GJ,Corporate,16/02/2023
+CUST0627,Charlie  Jones,STEVE@GMAIL.COM,+91-87859-60873,,F,London,LDN,Home Office,02-18-2023
+CUST0628,SNEHA TAYLOR,steve.anderson@Yahoo.Com,+91-83153-44841,-5.0,FEMALE,Pune,MH,Home Office,20-Feb-2023
+CUST0629,victor jackson,,N/A,-5.0,male,Sydney,NSW,Home Office,2023-02-21
+CUST0630,PRIYA THOMAS,ethomas@Yahoo.Com,08929773829,63.0,FEMALE,Mumbai,MH,consumer,2023-02-23
+CUST0631,Rahul Smith,olivia68@yahoo.com,+91-63927-60228,-5.0,M,Delhi,DL,Corporate,25-Feb-2023
+CUST0632,Sneha Walker,quinn8@outlook.com,7393815375,,m,London,LDN,Corporate,27/02/2023
+CUST0633,  Priya Davis  ,mia6@gmail.com,N/A,52.0,Male,Surat,GJ,Corporate,03-01-2023
+CUST0634,arjun williams,pmartin@outlook.com,N/A,-5.0,Other,New York,NY,CORPORATE,03-Mar-2023
+CUST0635,xander wilson,HENRY@YAHOO.COM,918689876885,22.0,M,Jaipur,RJ,home office,04/03/2023
+CUST0636,POOJA BROWN,,,64.0,Other,London,LDN,CORPORATE,06-Mar-2023
+CUST0637,UMA THOMPSON,JACK@GMAIL.COM,+91-87164-16868,200.0,FEMALE,London,LDN,CORPORATE,08-Mar-2023
+CUST0638,rachel brown,rachel85@outlook.com,917176496452,-5.0,M,Mumbai,MH,CORPORATE,03-10-2023
+CUST0639,  Yara Shah  ,jdavis@hotmail.com,08680440242,200.0,male,London,LDN,Corporate,2023-03-12
+CUST0640,  Bob Thompson  ,ethomas@Yahoo.Com,6239665900,200.0,FEMALE,Chennai,TN,Consumer,2023-03-13
+CUST0641,  Leo Jackson  ,diana35@outlook.com,9825308245,,f,Jaipur,RJ,consumer,2023-03-15
+CUST0642,Rahul  Williams,KAREN@YAHOO.COM,6511886978,19.0,Male,Bangalore,KA,Home Office,2023-03-17
+CUST0643,OLIVIA TAYLOR,tina14@yahoo.com,06557914110,,Other,Jaipur,RJ,Consumer,03-19-2023
+CUST0644,  Quinn Patel  ,  steve@outlook.com  ,N/A,-5.0,MALE,London,LDN,Corporate,21/03/2023
+CUST0645,eve williams,rahul46@GMAIL.COM,919761763552,29.0,FEMALE,Ahmedabad,GJ,Consumer,23-Mar-2023
+CUST0646,Wendy  Anderson,hwhite@hotmail.com,99999999999999,47.0,f,Bangalore,KA,home office,03-24-2023
+CUST0647,  Frank Taylor  ,,99999999999999,,f,Chennai,TN,Corporate,2023-03-26
+CUST0648,Steve Wilson,TINA@YAHOO.COM,99999999999999,,Male,New York,NY,Consumer,2023-03-28
+CUST0649,Frank  Jones,zoe42@yahoo.com,+91-97096-59120,,m,New York,NY,CORPORATE,03-30-2023
+CUST0650,Rachel  Davis,rwilliams@Yahoo.Com,99999999999999,-5.0,Male,Sydney,NSW,home office,01-Apr-2023
+CUST0651,OLIVIA WILSON,,09204435349,69.0,male,Bangalore,KA,CORPORATE,04-03-2023
+CUST0652,Grace Smith,rahul.moore@hotmail.com,,200.0,F,Hyderabad,TS,Consumer,04-Apr-2023
+CUST0653,Henry  Brown,,+91-96052-44785,50.0,Female,New York,NY,Home Office,04-06-2023
+CUST0654,Eve  Thomas,  charlie@yahoo.com  ,99999999999999,49.0,Female,Hyderabad,TS,Consumer,08/04/2023
+CUST0100,XANDER DAVIS,priya.brown@yahoo.com,08490250763,54.0,male,London,LDN,CORPORATE,2023-04-10
+CUST0656,charlie thomas,uma17@yahoo.com,,65.0,male,Mumbai,MH,Home Office,12/04/2023
+CUST0657,mia brown,,99999999999999,200.0,Female,Toronto,ON,consumer,04-14-2023
+CUST0658,Victor Brown,BOB@GMAIL.COM,08586708987,28.0,m,Ahmedabad,GJ,Corporate,15/04/2023
+CUST0659,MIA GARCIA,frank.wilson@gmail.com,06170185347,,male,Surat,GJ,Home Office,17-Apr-2023
+CUST0660,  Victor Martin  ,olivia57@Yahoo.Com,06477356707,,female,London,LDN,Corporate,04-19-2023
+CUST0661,QUINN MOORE,bob.williams@hotmail.com,919283396760,-5.0,Female,Chennai,TN,consumer,21-Apr-2023
+CUST0662,  Tina Lee  ,RACHEL@GMAIL.COM,N/A,,FEMALE,Delhi,DL,Home Office,23/04/2023
+CUST0663,rachel harris,  charlie@Yahoo.Com  ,7645406800,,FEMALE,Delhi,DL,Corporate,2023-04-25
+CUST0664,Mia Brown,  leo@outlook.com  ,,200.0,FEMALE,Mumbai,MH,Corporate,04-26-2023
+CUST0665,  Iris Martin  ,amit28@hotmail.com,N/A,-5.0,Female,Bangalore,KA,consumer,28-Apr-2023
+CUST0285,quinn anderson,rahul58@hotmail.com,916950866243,54.0,M,Surat,GJ,Home Office,30/04/2023
+CUST0667,Alice  Lee,RACHEL@GMAIL.COM,N/A,18.0,FEMALE,Delhi,DL,Corporate,05-02-2023
+CUST0668,Tina Moore,  leo@Yahoo.Com  ,N/A,-5.0,Female,Jaipur,RJ,CORPORATE,2023-05-04
+CUST0669,  Steve Thompson  ,priya.jackson@GMAIL.COM,+91-76883-55778,200.0,F,Delhi,DL,Consumer,05-05-2023
+CUST0670,WENDY WILSON,pooja50@hotmail.com,9512119784,200.0,M,Chennai,TN,Corporate,2023-05-07
+CUST0671,  Zoe Walker  ,FRANK@YAHOO.COM,99999999999999,59.0,m,Chennai,TN,Consumer,09/05/2023
+CUST0672,Zoe  Brown,amit.davis@Yahoo.Com,09942150718,54.0,Male,Delhi,DL,CORPORATE,11-May-2023
+CUST0673,Alice Johnson,  wendy@Yahoo.Com  ,,54.0,m,Ahmedabad,GJ,Consumer,05-13-2023
+CUST0674,Amit Garcia,ARJUN@OUTLOOK.COM,,31.0,M,Mumbai,MH,CORPORATE,05-15-2023
+CUST0675,JACK TAYLOR,vmartin@hotmail.com,,200.0,Other,Sydney,NSW,home office,16-May-2023
+CUST0676,ZOE THOMAS,UMA@GMAIL.COM,N/A,20.0,M,Jaipur,RJ,home office,05-18-2023
+CUST0677,  Olivia Garcia  ,grace.davis@gmail.com,N/A,22.0,male,Ahmedabad,GJ,Corporate,05-20-2023
+CUST0678,Olivia  Anderson,KAREN@GMAIL.COM,06982640532,32.0,m,Kolkata,WB,Home Office,05-22-2023
+CUST0679,NICK SHAH,victor13@yahoo.com,07430750834,-5.0,Female,Mumbai,MH,CORPORATE,05-24-2023
+CUST0680,Amit  Thompson,ARJUN@YAHOO.COM,6742375910,31.0,female,Delhi,DL,consumer,26-May-2023
+CUST0681,  Olivia Thompson  ,  pooja@yahoo.com  ,09451551922,19.0,F,Hyderabad,TS,consumer,27/05/2023
+CUST0682,SNEHA WALKER,steve23@yahoo.com,+91-61972-09076,,male,Kolkata,WB,Corporate,05-29-2023
+CUST0683,sneha thomas,,99999999999999,65.0,Female,Ahmedabad,GJ,Corporate,31-May-2023
+CUST0684,VICTOR HARRIS,,+91-69129-06014,46.0,MALE,Bangalore,KA,Consumer,02/06/2023
+CUST0685,FRANK LEE,sneha73@GMAIL.COM,N/A,200.0,female,Sydney,NSW,Corporate,04-Jun-2023
+CUST0686,Uma  Jones,FRANK@YAHOO.COM,N/A,25.0,female,Chennai,TN,CORPORATE,2023-06-06
+CUST0687,Mia Wilson,uma.moore@yahoo.com,+91-93100-95433,200.0,Male,Sydney,NSW,home office,07/06/2023
+CUST0688,priya smith,QUINN@GMAIL.COM,N/A,28.0,Other,Sydney,NSW,Consumer,09/06/2023
+CUST0689,arjun shah,  uma@gmail.com  ,,200.0,Other,Jaipur,RJ,Consumer,2023-06-11
+CUST0690,Nick Martin,henry79@hotmail.com,N/A,-5.0,m,Hyderabad,TS,Consumer,13/06/2023
+CUST0691,rahul jones,zoe92@hotmail.com,N/A,200.0,Male,Sydney,NSW,Home Office,15/06/2023
+CUST0692,rahul shah,alice3@gmail.com,99999999999999,200.0,Male,Surat,GJ,Corporate,2023-06-17
+CUST0388,Bob  Jones,sneha.lee@Yahoo.Com,918167012825,25.0,Other,New York,NY,CORPORATE,18-Jun-2023
+CUST0694,Xander Jones,amartin@hotmail.com,,-5.0,female,Ahmedabad,GJ,Consumer,06-20-2023
+CUST0695,  Iris Thomas  ,diana.shah@outlook.com,99999999999999,41.0,F,Sydney,NSW,consumer,22/06/2023
+CUST0696,  Iris Lee  ,mia42@hotmail.com,+91-81334-84360,59.0,Male,New York,NY,CORPORATE,24-Jun-2023
+CUST0697,  Tina Wilson  ,,N/A,,Male,Surat,GJ,Home Office,26-Jun-2023
+CUST0698,  Alice Johnson  ,pooja41@Yahoo.Com,919771318744,-5.0,female,Delhi,DL,home office,2023-06-27
+CUST0699,pooja patel,rthompson@Yahoo.Com,09535974242,,female,Kolkata,WB,Corporate,29-Jun-2023
+CUST0700,wendy anderson,diana76@Yahoo.Com,+91-96853-16847,20.0,male,Bangalore,KA,Corporate,2023-07-01
+CUST0701,Victor  Davis,,+91-76098-89300,54.0,male,New York,NY,CORPORATE,03-Jul-2023
+CUST0702,  Olivia Shah  ,,07696379379,,m,Mumbai,MH,Corporate,07-05-2023
+CUST0703,Arjun  Walker,  iris@Yahoo.Com  ,+91-85480-03203,48.0,FEMALE,Bangalore,KA,Corporate,07-Jul-2023
+CUST0704,priya jackson,STEVE@GMAIL.COM,+91-88194-77978,,FEMALE,Bangalore,KA,Consumer,08-Jul-2023
+CUST0705,Zoe White,,7112458366,200.0,M,Sydney,NSW,Home Office,10-Jul-2023
+CUST0706,TINA GARCIA,pooja64@gmail.com,,-5.0,Other,London,LDN,Corporate,2023-07-12
+CUST0707,  Uma White  ,henry10@Yahoo.Com,09806443412,29.0,Other,New York,NY,Home Office,14/07/2023
+CUST0708,  Bob Anderson  ,,+91-71909-06681,,M,Chennai,TN,CORPORATE,2023-07-16
+CUST0709,charlie white,,99999999999999,41.0,Male,Bangalore,KA,Consumer,07-18-2023
+CUST0710,IRIS MARTIN,ktaylor@outlook.com,+91-97692-07967,31.0,m,Jaipur,RJ,CORPORATE,2023-07-19
+CUST0711,Jack  Moore,tina.miller@yahoo.com,09646980102,41.0,MALE,London,LDN,CORPORATE,21/07/2023
+CUST0712,Victor  Wilson,,919513084285,57.0,F,London,LDN,Consumer,07-23-2023
+CUST0713,ZOE JACKSON,  arjun@gmail.com  ,07299491606,39.0,Male,Jaipur,RJ,consumer,25/07/2023
+CUST0714,Yara  Martin,  frank@yahoo.com  ,06720556736,65.0,Other,Chennai,TN,Corporate,27/07/2023
+CUST0624,  Nick Davis  ,  olivia@hotmail.com  ,N/A,200.0,M,Ahmedabad,GJ,Corporate,07-29-2023
+CUST0716,  Zoe Moore  ,,N/A,51.0,m,Ahmedabad,GJ,Consumer,30/07/2023
+CUST0717,eve patel,  sneha@yahoo.com  ,8135929409,18.0,Female,Hyderabad,TS,consumer,2023-08-01
+CUST0718,  Yara Williams  ,henry.williams@gmail.com,919856861869,23.0,Male,Hyderabad,TS,Corporate,03/08/2023
+CUST0465,mia moore,jack.taylor@hotmail.com,06723058861,200.0,female,New York,NY,Corporate,05-Aug-2023
+CUST0720,Amit  Jackson,pooja49@yahoo.com,,,f,Delhi,DL,Corporate,2023-08-07
+CUST0721,Grace Taylor,swilliams@GMAIL.COM,N/A,-5.0,Male,Surat,GJ,CORPORATE,09/08/2023
+CUST0722,Victor Williams,,N/A,,female,Ahmedabad,GJ,Home Office,10-Aug-2023
+CUST0723,Rahul Patel,arjun84@outlook.com,06363315107,,female,Pune,MH,CORPORATE,2023-08-12
+CUST0724,Tina Williams,amit.walker@outlook.com,,-5.0,f,New York,NY,Home Office,08-14-2023
+CUST0725,Frank Williams,amit27@hotmail.com,8758245742,54.0,F,Hyderabad,TS,consumer,2023-08-16
+CUST0726,Karen  Davis,,99999999999999,50.0,Male,Kolkata,WB,Corporate,08-18-2023
+CUST0727,  Grace Williams  ,sthompson@hotmail.com,06603444049,,FEMALE,Kolkata,WB,consumer,2023-08-20
+CUST0728,Leo Garcia,jack.moore@yahoo.com,,43.0,Female,London,LDN,Corporate,21-Aug-2023
+CUST0729,  Charlie Lee  ,  yara@GMAIL.COM  ,918552062605,24.0,f,Toronto,ON,home office,08-23-2023
+CUST0730,Pooja  Johnson,mia.jones@gmail.com,+91-84105-35202,,FEMALE,Delhi,DL,Consumer,2023-08-25
+CUST0731,Bob  Williams,,N/A,-5.0,m,Ahmedabad,GJ,home office,08-27-2023
+CUST0732,Leo Moore,eve62@GMAIL.COM,99999999999999,200.0,male,Kolkata,WB,Corporate,29/08/2023
+CUST0733,  Mia Thompson  ,rachel27@gmail.com,,35.0,M,Sydney,NSW,Corporate,2023-08-30
+CUST0390,Eve  Harris,  arjun@hotmail.com  ,+91-97207-74271,,female,Kolkata,WB,home office,2023-09-01
+CUST0735,Yara  Smith,  victor@hotmail.com  ,916804718104,27.0,male,Bangalore,KA,CORPORATE,03-Sep-2023
+CUST0736,Steve Jackson,rachel.harris@Yahoo.Com,06407965966,,m,Mumbai,MH,Consumer,05-Sep-2023
+CUST0737,nick shah,alice50@GMAIL.COM,N/A,68.0,Male,Hyderabad,TS,Consumer,07-Sep-2023
+CUST0738,  Olivia Martin  ,steve48@outlook.com,916941558920,18.0,Other,Ahmedabad,GJ,consumer,09-09-2023
+CUST0739,STEVE JONES,  tina@gmail.com  ,N/A,-5.0,f,Delhi,DL,Corporate,2023-09-10
+CUST0740,EVE HARRIS,pwhite@hotmail.com,99999999999999,-5.0,MALE,Surat,GJ,Consumer,09-12-2023
+CUST0741,  Sneha Harris  ,,,,MALE,Kolkata,WB,Home Office,2023-09-14
+CUST0742,Diana  Martin,,+91-67483-48443,-5.0,m,Mumbai,MH,consumer,16-Sep-2023
+CUST0743,  Xander Shah  ,AMIT@GMAIL.COM,07807762976,57.0,FEMALE,Surat,GJ,CORPORATE,09-18-2023
+CUST0744,Alice Shah,  wendy@GMAIL.COM  ,+91-89674-12340,,m,Hyderabad,TS,consumer,20/09/2023
+CUST0745,KAREN THOMPSON,,,200.0,M,Mumbai,MH,home office,21/09/2023
+CUST0746,  Uma Brown  ,  yara@GMAIL.COM  ,+91-76206-77295,29.0,male,New York,NY,consumer,2023-09-23
+CUST0747,Arjun Thomas,,6468130224,200.0,female,New York,NY,CORPORATE,09-25-2023
+CUST0748,zoe smith,UMA@GMAIL.COM,99999999999999,,f,New York,NY,CORPORATE,09-27-2023
+CUST0749,  Karen Walker  ,mia80@Yahoo.Com,07999381416,51.0,MALE,Surat,GJ,home office,2023-09-29
+CUST0750,  Henry Miller  ,peter23@outlook.com,09927176115,-5.0,FEMALE,Ahmedabad,GJ,consumer,2023-10-01
+CUST0751,  Iris Smith  ,yara.miller@yahoo.com,07809386103,19.0,female,Mumbai,MH,CORPORATE,02-Oct-2023
+CUST0752,Arjun Jackson,  olivia@gmail.com  ,N/A,24.0,FEMALE,Pune,MH,consumer,2023-10-04
+CUST0753,amit thompson,ARJUN@YAHOO.COM,,63.0,MALE,Bangalore,KA,home office,06-Oct-2023
+CUST0754,EVE ANDERSON,charlie.wilson@hotmail.com,99999999999999,-5.0,M,Ahmedabad,GJ,CORPORATE,10-08-2023
+CUST0550,Yara  Davis,  uma@outlook.com  ,+91-61563-96358,200.0,Female,London,LDN,Home Office,10/10/2023
+CUST0756,nick shah,AMIT@HOTMAIL.COM,09528148969,200.0,Other,Ahmedabad,GJ,CORPORATE,12/10/2023
+CUST0757,iris martin,YARA@GMAIL.COM,,27.0,MALE,Hyderabad,TS,CORPORATE,13-Oct-2023
+CUST0758,nick shah,yara.lee@GMAIL.COM,,,F,Mumbai,MH,home office,2023-10-15
+CUST0081,tina walker,JACK@YAHOO.COM,919609586681,200.0,Male,Bangalore,KA,home office,2023-10-17
+CUST0619,  Priya Johnson  ,pooja.lee@GMAIL.COM,99999999999999,200.0,F,Pune,MH,consumer,19/10/2023
+CUST0761,AMIT WALKER,cbrown@GMAIL.COM,919112737840,200.0,f,Jaipur,RJ,Home Office,21/10/2023
+CUST0762,Karen White,ithompson@hotmail.com,,,Other,Sydney,NSW,CORPORATE,22-Oct-2023
+CUST0763,  Tina Garcia  ,VICTOR@YAHOO.COM,,28.0,Other,Sydney,NSW,consumer,24-Oct-2023
+CUST0764,Mia Shah,grace5@outlook.com,N/A,,m,Jaipur,RJ,Corporate,10-26-2023
+CUST0765,Sneha Martin,RAHUL@OUTLOOK.COM,N/A,,M,Chennai,TN,CORPORATE,28/10/2023
+CUST0766,Rachel Davis,  grace@Yahoo.Com  ,918459668515,-5.0,female,Pune,MH,consumer,2023-10-30
+CUST0767,MIA GARCIA,,8961480639,-5.0,male,London,LDN,Corporate,11-01-2023
+CUST0768,alice williams,  alice@gmail.com  ,N/A,-5.0,Female,Jaipur,RJ,Consumer,02-Nov-2023
+CUST0769,Jack  Anderson,jwilson@hotmail.com,99999999999999,47.0,Male,Kolkata,WB,Corporate,04-Nov-2023
+CUST0770,Rahul  Jones,  arjun@hotmail.com  ,,64.0,M,Jaipur,RJ,Consumer,11-06-2023
+CUST0771,eve martin,jack30@gmail.com,917658294552,,Female,Delhi,DL,CORPORATE,08/11/2023
+CUST0772,zoe anderson,emoore@Yahoo.Com,N/A,200.0,female,Bangalore,KA,Home Office,11-10-2023
+CUST0773,PETER JOHNSON,AMIT@YAHOO.COM,6822415501,-5.0,female,New York,NY,Home Office,2023-11-12
+CUST0774,Victor  Jackson,  quinn@gmail.com  ,06112843471,27.0,f,Bangalore,KA,Consumer,11-13-2023
+CUST0775,  Pooja Harris  ,  victor@outlook.com  ,6663998215,-5.0,MALE,Pune,MH,CORPORATE,15/11/2023
+CUST0776,SNEHA THOMAS,ZOE@HOTMAIL.COM,+91-94774-37882,-5.0,Other,New York,NY,consumer,17-Nov-2023
+CUST0777,Sneha  Garcia,,+91-83704-71388,55.0,female,London,LDN,consumer,19-Nov-2023
+CUST0274,  Charlie Anderson  ,VICTOR@OUTLOOK.COM,N/A,32.0,f,Surat,GJ,consumer,21-Nov-2023
+CUST0779,FRANK BROWN,yara23@gmail.com,N/A,,MALE,Pune,MH,Home Office,23-Nov-2023
+CUST0780,Steve  Taylor,uma.miller@gmail.com,,55.0,FEMALE,Ahmedabad,GJ,Home Office,11-24-2023
+CUST0781,  Sneha Shah  ,,6860289849,,F,London,LDN,Consumer,26-Nov-2023
+CUST0207,Wendy Davis,  charlie@hotmail.com  ,+91-67492-76419,35.0,Male,Sydney,NSW,Home Office,2023-11-28
+CUST0783,Tina  Thompson,eve.martin@outlook.com,99999999999999,51.0,Other,Toronto,ON,consumer,30-Nov-2023
+CUST0784,  Zoe Brown  ,pshah@gmail.com,,,Other,Bangalore,KA,Corporate,12-02-2023
+CUST0785,LEO MOORE,steve58@GMAIL.COM,917372017183,,female,Hyderabad,TS,Consumer,04/12/2023
+CUST0786,  Arjun Moore  ,oharris@GMAIL.COM,9809182681,46.0,f,Toronto,ON,Corporate,05-Dec-2023
+CUST0787,PETER HARRIS,,99999999999999,-5.0,MALE,Toronto,ON,consumer,07-Dec-2023
+CUST0788,  Leo Moore  ,  priya@hotmail.com  ,,,female,New York,NY,home office,2023-12-09
+CUST0789,priya wilson,grace74@yahoo.com,+91-83763-13067,-5.0,m,Hyderabad,TS,Corporate,2023-12-11
+CUST0790,Sneha  Miller,,99999999999999,-5.0,Male,Kolkata,WB,consumer,12-13-2023
+CUST0791,YARA SMITH,  rahul@hotmail.com  ,06511027302,,MALE,Delhi,DL,CORPORATE,14-Dec-2023
+CUST0792,  Leo Patel  ,,918164487484,49.0,Male,Sydney,NSW,home office,16/12/2023
+CUST0793,GRACE LEE,,08291050332,32.0,female,New York,NY,Corporate,18/12/2023
+CUST0794,Zoe Thomas,bob2@GMAIL.COM,+91-66279-82241,56.0,male,Ahmedabad,GJ,home office,20-Dec-2023
+CUST0795,CHARLIE MILLER,,,,FEMALE,Kolkata,WB,Home Office,2023-12-22
+CUST0796,Peter  Moore,  uma@hotmail.com  ,+91-92164-26335,,female,Ahmedabad,GJ,consumer,12-24-2023
+CUST0797,Karen Patel,diana33@outlook.com,N/A,,F,Surat,GJ,Corporate,25-Dec-2023
+CUST0798,Rachel  Martin,STEVE@HOTMAIL.COM,,,M,New York,NY,Corporate,27-Dec-2023
+CUST0799,  Steve Johnson  ,wendy.walker@outlook.com,8210903699,,FEMALE,Bangalore,KA,Consumer,2023-12-29
+CUST0800,eve white,xsmith@GMAIL.COM,N/A,34.0,F,Surat,GJ,Corporate,31-Dec-2023
+CUST0801,Nick  Walker,PRIYA@YAHOO.COM,08934552051,-5.0,M,London,LDN,consumer,01-02-2024
+CUST0802,POOJA HARRIS,jack.moore@hotmail.com,+91-66344-02789,55.0,f,Jaipur,RJ,Home Office,04/01/2024
+CUST0803,arjun johnson,pharris@gmail.com,,60.0,male,Toronto,ON,consumer,05/01/2024
+CUST0804,HENRY ANDERSON,apatel@hotmail.com,+91-93860-83995,,F,New York,NY,consumer,01-07-2024
+CUST0805,Xander Smith,lpatel@Yahoo.Com,N/A,200.0,F,Jaipur,RJ,consumer,09/01/2024
+CUST0806,Eve Walker,karen67@yahoo.com,,,m,Hyderabad,TS,home office,11-Jan-2024
+CUST0807,Grace White,,09613398300,42.0,f,Bangalore,KA,consumer,01-13-2024
+CUST0808,  Uma Taylor  ,,99999999999999,55.0,MALE,London,LDN,Home Office,2024-01-15
+CUST0809,Arjun Moore,ysmith@Yahoo.Com,+91-66799-58795,24.0,Other,Pune,MH,Corporate,2024-01-16
+CUST0810,Rahul  Anderson,  peter@outlook.com  ,,,female,Surat,GJ,consumer,2024-01-18
+CUST0811,KAREN BROWN,POOJA@GMAIL.COM,N/A,-5.0,Female,Surat,GJ,Corporate,2024-01-20
+CUST0812,Quinn Smith,,,20.0,f,Pune,MH,consumer,22-Jan-2024
+CUST0813,Nick  Anderson,,8530156867,-5.0,Female,Surat,GJ,Consumer,24-Jan-2024
+CUST0814,Charlie  Garcia,SNEHA@YAHOO.COM,N/A,-5.0,Male,Surat,GJ,Corporate,2024-01-26
+CUST0815,Sneha Thomas,QUINN@YAHOO.COM,99999999999999,,Male,Sydney,NSW,Corporate,27-Jan-2024
+CUST0816,Bob  Anderson,  sneha@hotmail.com  ,99999999999999,67.0,f,Kolkata,WB,home office,01-29-2024
+CUST0817,  Eve Smith  ,,+91-87955-61982,31.0,Male,Delhi,DL,Consumer,01-31-2024
+CUST0818,Sneha Brown,athompson@yahoo.com,7695363509,24.0,Male,Mumbai,MH,Home Office,02-02-2024
+CUST0819,YARA JACKSON,spatel@gmail.com,+91-98094-57825,,MALE,Mumbai,MH,Home Office,2024-02-04
+CUST0820,  Victor Harris  ,  steve@Yahoo.Com  ,08847197907,,Male,Sydney,NSW,Consumer,2024-02-05
+CUST0821,zoe miller,KAREN@HOTMAIL.COM,,33.0,MALE,London,LDN,Home Office,2024-02-07
+CUST0822,MIA WILLIAMS,  eve@outlook.com  ,8622379207,21.0,F,Bangalore,KA,consumer,09-Feb-2024
+CUST0823,ZOE MARTIN,RAHUL@YAHOO.COM,+91-98895-48331,58.0,M,Chennai,TN,consumer,11/02/2024
+CUST0824,CHARLIE MARTIN,wendy61@gmail.com,+91-71383-30751,68.0,f,Delhi,DL,home office,13/02/2024
+CUST0825,alice jones,  tina@gmail.com  ,N/A,,male,New York,NY,consumer,15-Feb-2024
+CUST0465,QUINN JACKSON,priya.martin@hotmail.com,07625309452,43.0,Female,Delhi,DL,Consumer,2024-02-16
+CUST0827,Henry  Brown,qjones@yahoo.com,N/A,-5.0,Male,Ahmedabad,GJ,CORPORATE,2024-02-18
+CUST0828,IRIS HARRIS,sneha59@GMAIL.COM,N/A,200.0,FEMALE,New York,NY,Home Office,20-Feb-2024
+CUST0364,  Uma Smith  ,tina.taylor@Yahoo.Com,9117629000,65.0,female,Ahmedabad,GJ,Home Office,02-22-2024
+CUST0830,sneha jones,mia81@hotmail.com,918160188010,,Other,Pune,MH,CORPORATE,02-24-2024
+CUST0831,Pooja Shah,yara.taylor@Yahoo.Com,6535410744,43.0,female,Toronto,ON,CORPORATE,26-Feb-2024
+CUST0832,sneha wilson,amit27@hotmail.com,,49.0,M,Chennai,TN,consumer,27-Feb-2024
+CUST0833,Eve Davis,grace.lee@yahoo.com,99999999999999,30.0,FEMALE,Toronto,ON,Consumer,02-29-2024
+CUST0834,FRANK HARRIS,,N/A,40.0,Female,Toronto,ON,consumer,03-02-2024
+CUST0835,Peter Thomas,  yara@outlook.com  ,7177345357,46.0,MALE,London,LDN,Consumer,04/03/2024
+CUST0836,Rahul  Anderson,WENDY@GMAIL.COM,,28.0,M,Toronto,ON,Home Office,06/03/2024
+CUST0837,Iris Moore,steve.miller@Yahoo.Com,N/A,200.0,Other,Chennai,TN,Home Office,08/03/2024
+CUST0838,Amit Anderson,steve.taylor@GMAIL.COM,,53.0,Male,Delhi,DL,Corporate,2024-03-09
+CUST0839,  Rachel Jackson  ,,+91-71154-24523,53.0,MALE,Bangalore,KA,Home Office,03-11-2024
+CUST0840,Karen  Garcia,zdavis@yahoo.com,99999999999999,43.0,Male,London,LDN,CORPORATE,2024-03-13
+CUST0841,Karen Thompson,  rachel@yahoo.com  ,N/A,,Female,Kolkata,WB,Corporate,15-Mar-2024
+CUST0842,Bob Wilson,alice40@GMAIL.COM,N/A,43.0,MALE,Toronto,ON,Consumer,2024-03-17
+CUST0843,GRACE BROWN,dwilliams@gmail.com,99999999999999,200.0,male,Kolkata,WB,Consumer,2024-03-19
+CUST0844,leo white,POOJA@YAHOO.COM,06222599500,-5.0,MALE,Delhi,DL,Corporate,20-Mar-2024
+CUST0845,steve shah,,99999999999999,70.0,F,Mumbai,MH,home office,2024-03-22
+CUST0846,HENRY WHITE,ojones@hotmail.com,917557641077,23.0,female,Surat,GJ,home office,2024-03-24
+CUST0847,Zoe Garcia,wendy.miller@yahoo.com,9448144622,32.0,Female,Hyderabad,TS,CORPORATE,26/03/2024
+CUST0848,Karen Jones,olivia94@yahoo.com,99999999999999,,Other,Delhi,DL,Home Office,28-Mar-2024
+CUST0849,  Eve Anderson  ,MIA@YAHOO.COM,7920583443,19.0,Other,Mumbai,MH,Consumer,29-Mar-2024
+CUST0850,alice jackson,qmartin@yahoo.com,7460244389,32.0,Male,Sydney,NSW,Consumer,31-Mar-2024
+CUST0851,RACHEL SMITH,,+91-63940-90757,59.0,F,London,LDN,CORPORATE,02-Apr-2024
+CUST0852,  Jack Anderson  ,grace.wilson@GMAIL.COM,,18.0,male,Delhi,DL,Corporate,04-04-2024
+CUST0853,Rahul Miller,charlie.walker@gmail.com,+91-86942-17027,-5.0,Male,Ahmedabad,GJ,home office,04-06-2024
+CUST0854,  Wendy Brown  ,,N/A,200.0,Female,Toronto,ON,CORPORATE,08-Apr-2024
+CUST0855,Leo Miller,  rahul@outlook.com  ,6243205892,200.0,Female,Pune,MH,Home Office,04-09-2024
+CUST0856,  Nick Moore  ,  charlie@GMAIL.COM  ,+91-99350-07826,200.0,female,Surat,GJ,Consumer,2024-04-11
+CUST0857,Charlie Johnson,,6622877347,,F,New York,NY,consumer,13/04/2024
+CUST0858,  Nick Jones  ,  iris@gmail.com  ,+91-61077-56709,69.0,f,Sydney,NSW,consumer,15/04/2024
+CUST0859,Rahul Thomas,FRANK@GMAIL.COM,,41.0,m,Mumbai,MH,Home Office,2024-04-17
+CUST0860,DIANA JACKSON,,,38.0,MALE,Bangalore,KA,CORPORATE,19/04/2024
+CUST0861,  Grace Taylor  ,UMA@OUTLOOK.COM,+91-98434-14103,,MALE,Pune,MH,consumer,2024-04-20
+CUST0862,  Yara Johnson  ,arjun.walker@gmail.com,,200.0,Male,Delhi,DL,Home Office,2024-04-22
+CUST0863,tina garcia,LEO@OUTLOOK.COM,08661660243,200.0,f,London,LDN,CORPORATE,24/04/2024
+CUST0864,  Rahul Shah  ,mia67@hotmail.com,+91-93568-96763,52.0,F,Ahmedabad,GJ,Home Office,2024-04-26
+CUST0865,DIANA MILLER,ianderson@Yahoo.Com,+91-67402-42156,200.0,Female,Kolkata,WB,Home Office,28/04/2024
+CUST0866,ALICE HARRIS,  xander@gmail.com  ,9757183487,,male,Bangalore,KA,Home Office,30-Apr-2024
+CUST0867,diana shah,rmiller@Yahoo.Com,08473504921,59.0,female,New York,NY,Consumer,01/05/2024
+CUST0868,Yara Wilson,,+91-66988-36985,47.0,Female,Surat,GJ,CORPORATE,03/05/2024
+CUST0869,MIA BROWN,,N/A,-5.0,M,Jaipur,RJ,CORPORATE,05-May-2024
+CUST0870,Peter  Jackson,AMIT@YAHOO.COM,916764561301,45.0,Other,Chennai,TN,Consumer,07/05/2024
+CUST0871,Xander  Harris,steve.williams@Yahoo.Com,99999999999999,200.0,M,Chennai,TN,consumer,2024-05-09
+CUST0872,Peter Thompson,  victor@Yahoo.Com  ,7396810789,-5.0,Male,Hyderabad,TS,consumer,05-11-2024
+CUST0873,Mia Harris,henry.moore@hotmail.com,99999999999999,,Male,Ahmedabad,GJ,consumer,12-May-2024
+CUST0874,frank shah,sbrown@yahoo.com,99999999999999,64.0,F,Ahmedabad,GJ,CORPORATE,14/05/2024
+CUST0875,bob jones,  eve@Yahoo.Com  ,+91-96342-02492,54.0,M,New York,NY,Consumer,16-May-2024
+CUST0876,  Arjun Taylor  ,jack.brown@gmail.com,7819560168,-5.0,F,Hyderabad,TS,home office,18-May-2024
+CUST0877,Bob  Thomas,,916792414048,-5.0,M,Chennai,TN,CORPORATE,2024-05-20
+CUST0878,Alice  Martin,  zoe@hotmail.com  ,08325045286,46.0,male,Chennai,TN,home office,2024-05-22
+CUST0879,Victor  Thomas,xander.walker@hotmail.com,N/A,61.0,Male,London,LDN,home office,23/05/2024
+CUST0880,Mia Jones,frank.anderson@hotmail.com,9146511793,200.0,f,Bangalore,KA,CORPORATE,25/05/2024
+CUST0881,EVE BROWN,zthomas@outlook.com,+91-66769-86599,200.0,Male,Kolkata,WB,CORPORATE,27-May-2024
+CUST0882,Olivia  Brown,  alice@Yahoo.Com  ,7943415633,61.0,Other,Sydney,NSW,Consumer,29-May-2024
+CUST0883,grace smith,quinn15@yahoo.com,9652873657,63.0,Female,Jaipur,RJ,Corporate,31-May-2024
+CUST0884,Karen Jones,  henry@yahoo.com  ,,55.0,MALE,Toronto,ON,consumer,2024-06-01
+CUST0885,KAREN JONES,,N/A,-5.0,MALE,Toronto,ON,Home Office,03-Jun-2024
+CUST0886,Charlie  Anderson,  xander@yahoo.com  ,+91-85499-68984,28.0,F,Chennai,TN,home office,05/06/2024
+CUST0887,Arjun Martin,,99999999999999,56.0,female,Delhi,DL,home office,07/06/2024
+CUST0888,Grace  Smith,yara.jones@outlook.com,+91-64501-81809,-5.0,MALE,Surat,GJ,consumer,06-09-2024
+CUST0889,Uma Shah,xander.jackson@outlook.com,,64.0,Male,Mumbai,MH,home office,11-Jun-2024
+CUST0890,Uma  Davis,grace.wilson@Yahoo.Com,09314700940,,Other,New York,NY,home office,2024-06-12
+CUST0215,Mia  Johnson,,07178951929,-5.0,MALE,New York,NY,home office,06-14-2024
+CUST0892,NICK SHAH,amit73@Yahoo.Com,09158346438,62.0,female,Delhi,DL,Home Office,2024-06-16
+CUST0893,ZOE TAYLOR,BOB@HOTMAIL.COM,N/A,24.0,female,Chennai,TN,Corporate,2024-06-18
+CUST0894,priya jackson,,09291191291,-5.0,F,Mumbai,MH,Corporate,20-Jun-2024
+CUST0895,Henry Walker,,08246463340,49.0,Male,Toronto,ON,Corporate,22-Jun-2024
+CUST0896,OLIVIA SMITH,eve50@Yahoo.Com,917778627510,43.0,Other,Bangalore,KA,Consumer,23-Jun-2024
+CUST0897,Nick Jackson,sneha.thompson@GMAIL.COM,918317122293,40.0,Male,Mumbai,MH,CORPORATE,06-25-2024
+CUST0898,grace harris,  tina@yahoo.com  ,,39.0,f,Pune,MH,consumer,2024-06-27
+CUST0899,WENDY MOORE,  arjun@yahoo.com  ,+91-64012-96420,200.0,M,Toronto,ON,Home Office,29-Jun-2024
+CUST0900,UMA MOORE,htaylor@yahoo.com,06599863643,,m,Kolkata,WB,consumer,01-Jul-2024
+CUST0901,Leo Harris,IRIS@GMAIL.COM,99999999999999,41.0,F,Surat,GJ,Corporate,03-Jul-2024
+CUST0902,ALICE WILLIAMS,charlie52@outlook.com,918336065965,18.0,female,Jaipur,RJ,Consumer,04-Jul-2024
+CUST0903,zoe jackson,CHARLIE@OUTLOOK.COM,99999999999999,200.0,Male,Sydney,NSW,Consumer,06/07/2024
+CUST0904,uma davis,  tina@gmail.com  ,N/A,41.0,MALE,Delhi,DL,Home Office,2024-07-08
+CUST0905,  Alice Walker  ,,07192851105,-5.0,FEMALE,Pune,MH,Consumer,2024-07-10
+CUST0906,YARA JONES,  henry@gmail.com  ,N/A,31.0,Female,Bangalore,KA,Corporate,12-Jul-2024
+CUST0907,Nick Martin,GRACE@GMAIL.COM,09998710123,200.0,f,New York,NY,Corporate,07-14-2024
+CUST0908,sneha garcia,PETER@GMAIL.COM,,-5.0,FEMALE,London,LDN,consumer,2024-07-15
+CUST0909,Olivia  Davis,IRIS@HOTMAIL.COM,99999999999999,200.0,F,London,LDN,CORPORATE,07-17-2024
+CUST0910,eve wilson,  yara@Yahoo.Com  ,917366106987,-5.0,F,New York,NY,Corporate,19-Jul-2024
+CUST0911,  Rachel Brown  ,sneha7@hotmail.com,+91-97221-97986,200.0,m,Jaipur,RJ,consumer,21-Jul-2024
+CUST0912,  Xander Wilson  ,XANDER@HOTMAIL.COM,7716006526,69.0,male,Ahmedabad,GJ,Corporate,2024-07-23
+CUST0913,  Charlie Davis  ,,9147485372,,FEMALE,Chennai,TN,consumer,24-Jul-2024
+CUST0566,Eve  Shah,jack.anderson@Yahoo.Com,99999999999999,55.0,Other,Sydney,NSW,CORPORATE,07-26-2024
+CUST0915,  Nick Jackson  ,arjun.brown@Yahoo.Com,N/A,200.0,FEMALE,Chennai,TN,CORPORATE,28-Jul-2024
+CUST0916,ARJUN MILLER,gtaylor@hotmail.com,99999999999999,-5.0,m,Surat,GJ,Home Office,30-Jul-2024
+CUST0917,tina harris,,06585805219,-5.0,m,Sydney,NSW,Corporate,2024-08-01
+CUST0918,POOJA BROWN,  arjun@gmail.com  ,N/A,25.0,male,Ahmedabad,GJ,Consumer,03/08/2024
+CUST0919,GRACE MARTIN,,,33.0,FEMALE,Jaipur,RJ,Consumer,08-04-2024
+CUST0920,karen walker,CHARLIE@GMAIL.COM,+91-93340-82685,70.0,Other,Pune,MH,Corporate,06/08/2024
+CUST0921,  Quinn Garcia  ,  xander@yahoo.com  ,+91-84176-02552,20.0,FEMALE,Pune,MH,Consumer,08-Aug-2024
+CUST0922,Grace Miller,,06117104881,,M,Surat,GJ,Home Office,08-10-2024
+CUST0923,Uma  Lee,  rahul@gmail.com  ,,63.0,male,Jaipur,RJ,home office,12-Aug-2024
+CUST0924,Yara  Patel,RAHUL@YAHOO.COM,,,f,Sydney,NSW,consumer,14/08/2024
+CUST0925,iris patel,,06588381587,200.0,M,Bangalore,KA,Consumer,15/08/2024
+CUST0926,VICTOR JONES,  xander@GMAIL.COM  ,07854985336,-5.0,FEMALE,Toronto,ON,Corporate,08-17-2024
+CUST0927,LEO DAVIS,grace.smith@GMAIL.COM,99999999999999,52.0,F,Delhi,DL,consumer,19-Aug-2024
+CUST0928,  Uma Brown  ,  xander@outlook.com  ,08773033141,-5.0,FEMALE,Ahmedabad,GJ,Corporate,21/08/2024
+CUST0929,  Amit Jones  ,WENDY@YAHOO.COM,6773563645,,MALE,Kolkata,WB,home office,08-23-2024
+CUST0930,  Eve Thomas  ,diana.garcia@Yahoo.Com,919841687850,-5.0,male,New York,NY,consumer,25-Aug-2024
+CUST0931,  Victor Johnson  ,ZOE@YAHOO.COM,06418461071,-5.0,Other,Kolkata,WB,Consumer,26-Aug-2024
+CUST0932,Bob  Wilson,  rachel@GMAIL.COM  ,N/A,-5.0,F,Sydney,NSW,Consumer,08-28-2024
+CUST0933,rahul miller,mia98@Yahoo.Com,,-5.0,Other,Delhi,DL,home office,30-Aug-2024
+CUST0934,yara jones,hwilson@outlook.com,916766208705,,m,Surat,GJ,consumer,01/09/2024
+CUST0935,Olivia  Jackson,  sneha@yahoo.com  ,,62.0,M,Delhi,DL,Home Office,03/09/2024
+CUST0936,Alice Smith,FRANK@YAHOO.COM,8155364901,200.0,FEMALE,Bangalore,KA,CORPORATE,09-05-2024
+CUST0937,Olivia  Walker,nmoore@Yahoo.Com,09492550199,54.0,M,Toronto,ON,home office,2024-09-06
+CUST0938,  Bob Miller  ,bob28@Yahoo.Com,916492529027,59.0,Female,Jaipur,RJ,Home Office,08-Sep-2024
+CUST0939,  Henry Williams  ,dmiller@GMAIL.COM,N/A,21.0,f,Hyderabad,TS,consumer,10/09/2024
+CUST0940,TINA JOHNSON,victor87@hotmail.com,,200.0,MALE,Delhi,DL,Home Office,12/09/2024
+CUST0941,Peter  Thomas,PETER@YAHOO.COM,917248612097,,male,Delhi,DL,CORPORATE,14/09/2024
+CUST0942,priya jackson,iris.patel@hotmail.com,7679427414,200.0,FEMALE,Ahmedabad,GJ,CORPORATE,15/09/2024
+CUST0943,peter martin,NICK@GMAIL.COM,99999999999999,,FEMALE,Chennai,TN,CORPORATE,17-Sep-2024
+CUST0944,Frank Moore,  eve@Yahoo.Com  ,,62.0,Other,Mumbai,MH,home office,2024-09-19
+CUST0945,  Diana Patel  ,nshah@Yahoo.Com,917444095402,,F,Surat,GJ,Home Office,21-Sep-2024
+CUST0946,IRIS DAVIS,nick.jackson@gmail.com,,22.0,F,Jaipur,RJ,home office,23-Sep-2024
+CUST0947,Xander Davis,olivia.smith@outlook.com,9397582542,,m,Pune,MH,home office,09-25-2024
+CUST0948,Pooja  Taylor,vshah@gmail.com,916500305748,-5.0,Other,Mumbai,MH,Home Office,26/09/2024
+CUST0949,steve jackson,jgarcia@hotmail.com,N/A,25.0,male,Chennai,TN,CORPORATE,28/09/2024
+CUST0950,Mia  Harris,ajones@gmail.com,,60.0,Male,Sydney,NSW,Corporate,2024-09-30
+CUST0951,  Jack Johnson  ,rmiller@GMAIL.COM,N/A,42.0,FEMALE,Hyderabad,TS,home office,2024-10-02
+CUST0952,yara martin,,,43.0,m,Sydney,NSW,home office,10-04-2024
+CUST0953,Nick  Jackson,,06302243117,200.0,Other,Hyderabad,TS,home office,10-06-2024
+CUST0954,Charlie  Patel,QUINN@OUTLOOK.COM,06186082315,,male,Kolkata,WB,CORPORATE,10-07-2024
+CUST0955,peter johnson,leo.moore@Yahoo.Com,7409637808,58.0,f,London,LDN,CORPORATE,09/10/2024
+CUST0956,  Rahul Moore  ,,916276916378,65.0,FEMALE,Pune,MH,home office,11/10/2024
+CUST0957,Victor Brown,bob.taylor@GMAIL.COM,+91-68484-86223,-5.0,m,Delhi,DL,Home Office,2024-10-13
+CUST0958,Iris Wilson,  iris@yahoo.com  ,99999999999999,42.0,Other,Sydney,NSW,CORPORATE,2024-10-15
+CUST0959,RACHEL ANDERSON,,,-5.0,male,Sydney,NSW,Corporate,10-17-2024
+CUST0960,uma wilson,WENDY@HOTMAIL.COM,06414788293,,f,Bangalore,KA,Corporate,18-Oct-2024
+CUST0961,  Charlie Anderson  ,peter78@Yahoo.Com,917608851530,,male,Hyderabad,TS,Consumer,2024-10-20
+CUST0962,ARJUN JACKSON,uma58@hotmail.com,,,female,Delhi,DL,consumer,22/10/2024
+CUST0963,steve davis,bob24@gmail.com,+91-64130-13776,,M,Jaipur,RJ,consumer,2024-10-24
+CUST0964,BOB TAYLOR,leo.martin@gmail.com,99999999999999,-5.0,Female,Surat,GJ,Home Office,26/10/2024
+CUST0965,Olivia Johnson,qjackson@hotmail.com,N/A,52.0,M,Chennai,TN,Home Office,28-Oct-2024
+CUST0966,VICTOR GARCIA,djones@yahoo.com,N/A,,Female,Sydney,NSW,CORPORATE,10-29-2024
+CUST0967,victor johnson,,,43.0,m,Jaipur,RJ,Home Office,10-31-2024
+CUST0968,peter smith,ajones@gmail.com,N/A,200.0,m,Surat,GJ,consumer,11-02-2024
+CUST0969,NICK JOHNSON,HENRY@GMAIL.COM,919591781368,34.0,Male,Jaipur,RJ,home office,2024-11-04
+CUST0970,diana shah,EVE@HOTMAIL.COM,917947556242,43.0,m,Hyderabad,TS,consumer,11-06-2024
+CUST0971,Peter Taylor,,917947469747,49.0,Female,Kolkata,WB,Consumer,07/11/2024
+CUST0972,Olivia Miller,rahul29@GMAIL.COM,917619952085,-5.0,f,Surat,GJ,CORPORATE,2024-11-09
+CUST0973,yara moore,xander65@gmail.com,99999999999999,24.0,Male,Mumbai,MH,Home Office,2024-11-11
+CUST0974,Uma Harris,  grace@GMAIL.COM  ,916259277073,,MALE,Jaipur,RJ,Home Office,13-Nov-2024
+CUST0975,leo wilson,rahul29@hotmail.com,+91-85895-47387,-5.0,m,London,LDN,Consumer,15-Nov-2024
+CUST0976,RAHUL WALKER,oshah@hotmail.com,N/A,,Other,Delhi,DL,Corporate,2024-11-17
+CUST0977,  Alice Brown  ,CHARLIE@YAHOO.COM,+91-82957-22203,27.0,male,Surat,GJ,CORPORATE,2024-11-18
+CUST0978,Eve  Jackson,,+91-72731-45929,50.0,female,Ahmedabad,GJ,Corporate,2024-11-20
+CUST0979,pooja garcia,ssmith@gmail.com,916144186034,64.0,Other,Hyderabad,TS,Corporate,2024-11-22
+CUST0980,EVE WILSON,BOB@YAHOO.COM,917573400575,54.0,FEMALE,New York,NY,Corporate,2024-11-24
+CUST0747,Mia  Harris,,+91-82981-01702,29.0,F,Mumbai,MH,consumer,26/11/2024
+CUST0982,Diana Anderson,  amit@outlook.com  ,916814632395,47.0,Female,Mumbai,MH,Corporate,2024-11-28
+CUST0983,  Jack Taylor  ,zwilson@GMAIL.COM,918258853889,27.0,FEMALE,Pune,MH,Consumer,29/11/2024
+CUST0984,nick moore,psmith@GMAIL.COM,+91-96796-77338,22.0,FEMALE,Kolkata,WB,home office,12-01-2024
+CUST0985,Iris  Brown,  grace@GMAIL.COM  ,8230448918,,m,Hyderabad,TS,CORPORATE,03/12/2024
+CUST0986,FRANK BROWN,pooja84@hotmail.com,99999999999999,-5.0,M,Chennai,TN,CORPORATE,12-05-2024
+CUST0987,Leo  Shah,rahul.taylor@GMAIL.COM,917591817492,200.0,m,Pune,MH,Home Office,07-Dec-2024
+CUST0988,NICK SMITH,eve.garcia@GMAIL.COM,,53.0,Other,Toronto,ON,consumer,09-Dec-2024
+CUST0989,Peter Shah,,,53.0,M,Mumbai,MH,home office,2024-12-10
+CUST0990,Frank  Thompson,  uma@yahoo.com  ,918608857707,200.0,female,Bangalore,KA,consumer,12/12/2024
+CUST0991,priya jones,,N/A,,f,Chennai,TN,consumer,12-14-2024
+CUST0992,Sneha  Taylor,,,38.0,FEMALE,Jaipur,RJ,CORPORATE,12-16-2024
+CUST0993,Tina Anderson,  iris@yahoo.com  ,06885593029,,M,Sydney,NSW,Home Office,18/12/2024
+CUST0994,Karen  Anderson,rachel.taylor@gmail.com,,32.0,Female,London,LDN,Home Office,2024-12-20
+CUST0995,  Mia Lee  ,UMA@YAHOO.COM,6430800749,-5.0,female,Pune,MH,Consumer,21/12/2024
+CUST0996,  Peter Martin  ,ywilliams@GMAIL.COM,99999999999999,54.0,Other,Toronto,ON,Corporate,23-Dec-2024
+CUST0997,priya walker,,917578859534,200.0,Other,New York,NY,Corporate,25-Dec-2024
+CUST0998,leo anderson,sneha.thomas@outlook.com,6450433330,,F,Mumbai,MH,CORPORATE,2024-12-27
+CUST0999,PETER DAVIS,PRIYA@YAHOO.COM,N/A,,male,Chennai,TN,consumer,29/12/2024
+CUST1000,TINA PATEL,GRACE@YAHOO.COM,99999999999999,200.0,female,Ahmedabad,GJ,home office,31-Dec-2024

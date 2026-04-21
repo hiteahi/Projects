@@ -1,0 +1,201 @@
+product_id,product_name,category,sub_category,brand,price,cost_price,stock_qty,rating
+PROD001,LG Laptop 149,Home & Kitchen,Smartwatch,Sony,2228.7,1023.47,-10.0,3.4
+PROD002,Apple History 640,Sports,History,Adidas,9294.74,4822.51,36.0,3.8
+PROD003,Samsung Camera 763,Electronics,Mobile,NIKE,,2309.36,-10.0,1.1
+PROD004,Sony Cookware 400,Clothing,Furniture,Puma,7003.66,3969.6,-10.0,4.9
+PROD005,Prestige Decor 174,electronics,Bedding,Prestige,8931.26,4574.82,146.0,2.1
+PROD006,apple Appliances 429,Home & Kitchen,Lighting,Apple,5143.58,2974.92,,2.4
+PROD007,Samsung Jacket 517,CLOTHING,Jacket,apple,343.41,241.62,115.0,2.5
+PROD008,SAMSUNG Furniture 983,Sports,Bedding,HarperCollins,0.0,1363.56,-10.0,4.7
+PROD009,Prestige Decor 300,Clothing,Bedding,apple,71.34,61.14,,1.1
+PROD010,apple Camera 553,electronics,Smartwatch,SAMSUNG,6368.98,,429.0,4.6
+PROD011,Prestige History 742,Sports,Science,HarperCollins,9245.96,4349.3,300.0,1.1
+PROD012,Nike Fiction 847,books,Self-Help,LG,7822.56,3856.06,,4.7
+PROD013,LG Mobile 752,Clothing,Smartwatch,Apple,5046.21,2693.75,99.0,2.4
+PROD014,Sony Science 117,electronics,Science,Reebok,7617.73,4631.86,-10.0,1.9
+PROD015,NIKE Jacket 551,electronics,Jacket,Apple,3693.09,3297.71,80.0,1.2
+PROD016,Reebok Decor 388,Home & Kitchen,Furniture,LG,2242.58,1265.7,-10.0,1.2
+PROD017,Puma Furniture 159,Clothing,Lighting,apple,4903.47,3668.53,258.0,4.9
+PROD018,Philips Lighting 243,Home & Kitchen,Furniture,apple,1444.53,851.21,37.0,4.4
+PROD019,Philips Cycling 881,Books,Swimming,Nike,5772.28,3837.21,,
+PROD020,apple Jacket 787,electronics,T-Shirt,Adidas,3877.37,3213.16,,4.4
+PROD021,Nike Decor 240,sports,Bedding,apple,11416.98,4688.66,214.0,4.8
+PROD022,LG Cookware 668,Home & Kitchen,Furniture,Philips,5623.06,3804.32,,2.3
+PROD023,SAMSUNG T-Shirt 863,CLOTHING,Shoes,HarperCollins,3098.5,1720.77,478.0,1.6
+PROD024,apple History 842,books,Fiction,NIKE,4573.34,2578.36,-10.0,3.5
+PROD025,Prestige Jacket 493,HOME & KITCHEN,Shoes,NIKE,2228.48,1813.48,-10.0,-1.0
+PROD026,NIKE Cricket 264,Clothing,Running,apple,,2749.26,150.0,2.1
+PROD027,HarperCollins Saree 716,Home & Kitchen,Saree,Apple,4855.75,3976.88,-10.0,1.5
+PROD028,Apple Science 123,CLOTHING,History,Samsung,1890.94,843.68,-10.0,4.6
+PROD029,Puma Shoes 790,books,Jacket,SAMSUNG,0.0,4627.33,,3.0
+PROD030,Penguin Yoga 168,electronics,Running,Nike,4884.98,2190.39,322.0,3.6
+PROD031,Adidas Non-Fiction 307,Electronics,Self-Help,Prestige,1731.67,879.24,,4.6
+PROD032,Reebok Football 191,Electronics,Football,HarperCollins,8637.78,3501.91,,1.3
+PROD033,NIKE Furniture 421,sports,Appliances,Nike,10246.67,4672.29,,3.7
+PROD034,LG Smartwatch 275,Sports,Laptop,SAMSUNG,2658.94,1644.96,,2.5
+PROD035,Adidas Tablet 510,Books,Headphones,NIKE,,981.0,-10.0,1.7
+PROD036,Apple Headphones 657,Clothing,Laptop,Philips,5484.43,3261.15,-10.0,2.9
+PROD037,NIKE Laptop 575,Sports,Camera,HarperCollins,5263.7,4316.93,355.0,4.3
+PROD038,Samsung Mobile 969,Clothing,Mobile,Philips,3573.27,2828.99,-10.0,2.7
+PROD039,NIKE Jeans 794,Electronics,Saree,LG,10540.84,4980.87,,3.2
+PROD040,Apple Cricket 717,electronics,Cycling,Prestige,478.33,210.78,399.0,4.2
+PROD041,Nike Cookware 488,Books,Cookware,Samsung,6224.19,4119.71,480.0,1.2
+PROD042,Apple Furniture 868,books,Appliances,Apple,3762.8,1536.02,483.0,-1.0
+PROD043,Puma Mobile 944,CLOTHING,Headphones,Sony,2535.1,1928.93,447.0,3.2
+PROD044,Penguin Saree 425,sports,Jeans,Adidas,771.02,418.27,266.0,2.6
+PROD045,Nike Headphones 607,HOME & KITCHEN,Laptop,Reebok,1736.34,1534.11,,1.4
+PROD046,Penguin Camera 453,Clothing,Headphones,Sony,8280.69,3573.41,-10.0,3.1
+PROD047,Puma Cookware 294,sports,Appliances,Prestige,6856.61,4265.27,45.0,3.1
+PROD048,Adidas Jacket 176,HOME & KITCHEN,Jeans,apple,3989.66,1702.24,197.0,3.7
+PROD049,NIKE Smartwatch 658,books,Mobile,Philips,5713.37,4011.84,,1.6
+PROD050,Sony Dress 370,HOME & KITCHEN,Jacket,Penguin,5152.74,2773.53,,-1.0
+PROD051,HarperCollins Fiction 843,Electronics,Comics,Adidas,5280.74,2767.24,-10.0,2.4
+PROD052,Nike Self-Help 430,sports,Comics,Samsung,4222.45,2784.22,108.0,1.3
+PROD053,Samsung Non-Fiction 984,Books,Non-Fiction,HarperCollins,600.53,251.65,487.0,2.6
+PROD054,Puma Yoga 622,books,Swimming,apple,1620.67,1381.79,393.0,1.2
+PROD055,Samsung Laptop 541,Electronics,Smartwatch,Adidas,3701.33,2962.11,,2.3
+PROD056,Sony Tablet 154,Sports,Camera,NIKE,3415.6,1837.58,182.0,4.3
+PROD057,Adidas Jacket 309,electronics,Jeans,Samsung,6254.59,2827.89,,4.9
+PROD058,Prestige Science 951,Books,Fiction,HarperCollins,6182.99,3260.0,-10.0,3.0
+PROD059,Apple History 581,Home & Kitchen,Science,Puma,187.52,133.39,,2.6
+PROD060,Penguin Laptop 245,HOME & KITCHEN,Mobile,Reebok,11058.56,4788.59,292.0,1.8
+PROD061,NIKE Headphones 858,HOME & KITCHEN,Mobile,Apple,139.56,76.17,-10.0,6.5
+PROD062,SAMSUNG Cycling 783,HOME & KITCHEN,Football,Adidas,5303.8,3892.5,,3.1
+PROD063,Penguin Mobile 291,electronics,Camera,Prestige,2225.79,1094.49,-10.0,2.4
+PROD064,Apple Laptop 953,CLOTHING,Camera,HarperCollins,2922.96,1754.13,329.0,2.7
+PROD065,Nike Running 194,Books,Swimming,Reebok,2135.2,1473.93,318.0,1.1
+PROD066,NIKE Headphones 940,Books,Mobile,Apple,4276.56,2130.11,,1.0
+PROD067,HarperCollins Shoes 947,electronics,Saree,HarperCollins,2813.83,2057.45,-10.0,3.7
+PROD068,Nike T-Shirt 743,HOME & KITCHEN,Jacket,Apple,1922.4,962.57,493.0,1.8
+PROD069,Adidas Bedding 631,CLOTHING,Furniture,Nike,815.9,705.62,59.0,4.3
+PROD070,NIKE Lighting 275,CLOTHING,Cookware,Puma,7551.12,3669.7,-10.0,2.8
+PROD071,HarperCollins Camera 448,Electronics,Smartwatch,Samsung,9139.29,4799.03,-10.0,2.7
+PROD072,Philips History 903,electronics,History,Prestige,4654.3,4158.36,229.0,4.3
+PROD073,Philips Running 721,sports,Yoga,Nike,1616.61,764.7,,3.3
+PROD074,Reebok Non-Fiction 876,HOME & KITCHEN,Comics,Philips,2780.29,1659.3,,4.3
+PROD075,Puma Football 995,CLOTHING,Swimming,Nike,3102.82,2244.89,-10.0,2.9
+PROD076,apple Swimming 348,books,Cricket,Apple,4168.17,1798.23,-10.0,6.5
+PROD077,NIKE Laptop 968,HOME & KITCHEN,Smartwatch,Adidas,6011.45,2475.07,-10.0,2.7
+PROD078,Penguin Football 656,books,Yoga,Nike,2901.63,2194.8,,2.3
+PROD079,Prestige Science 518,Sports,Non-Fiction,Apple,6885.2,3754.21,23.0,4.0
+PROD080,Samsung Dress 334,Sports,Shoes,apple,2202.86,1471.69,-10.0,1.2
+PROD081,HarperCollins Headphones 856,Books,Camera,Prestige,5186.21,2392.51,-10.0,3.7
+PROD082,Samsung Lighting 904,Books,Furniture,NIKE,2192.92,1550.82,370.0,2.0
+PROD083,Philips Swimming 657,books,Football,Philips,10298.58,4205.37,27.0,-1.0
+PROD084,Philips Comics 538,electronics,Non-Fiction,Reebok,2855.26,2218.74,,1.9
+PROD085,Puma Saree 221,HOME & KITCHEN,Dress,Puma,4847.26,1953.68,-10.0,3.2
+PROD086,Reebok Cycling 816,electronics,Running,Reebok,1129.99,766.23,355.0,3.3
+PROD087,Samsung Headphones 981,Sports,Tablet,SAMSUNG,1243.9,539.23,310.0,3.8
+PROD088,Reebok Furniture 514,HOME & KITCHEN,Appliances,Prestige,2433.8,2048.39,,3.3
+PROD089,Penguin Football 980,electronics,Football,Nike,6536.68,4498.94,-10.0,3.7
+PROD090,SAMSUNG T-Shirt 473,sports,Shoes,Samsung,10710.23,4660.29,362.0,2.3
+PROD091,SAMSUNG Fiction 485,CLOTHING,Self-Help,Apple,9127.04,,,2.0
+PROD092,Penguin Mobile 186,electronics,Mobile,HarperCollins,7472.46,4795.18,-10.0,1.2
+PROD093,Prestige Furniture 284,electronics,Bedding,SAMSUNG,3153.35,2861.36,93.0,3.6
+PROD094,Adidas Comics 457,sports,Self-Help,Philips,3398.75,1566.37,,3.0
+PROD095,LG Saree 263,Sports,Dress,Prestige,5845.41,2951.65,-10.0,4.1
+PROD096,Apple Lighting 795,Books,Bedding,Apple,4555.49,2847.82,413.0,3.0
+PROD097,apple Appliances 474,HOME & KITCHEN,Lighting,Apple,6928.5,4456.77,-10.0,1.3
+PROD098,Samsung Science 652,Books,Fiction,Apple,7025.17,3806.69,-10.0,2.8
+PROD099,Reebok Cricket 803,Sports,Cycling,Puma,5854.07,2834.05,-10.0,2.7
+PROD100,Sony History 683,sports,Comics,Puma,2764.15,1194.96,-10.0,4.0
+PROD101,Nike Comics 174,Clothing,Comics,Apple,5984.17,4979.98,,4.6
+PROD102,Penguin Appliances 888,Clothing,Lighting,Nike,2882.32,2234.34,-10.0,1.6
+PROD103,NIKE Furniture 174,CLOTHING,Appliances,NIKE,772.47,529.44,-10.0,4.8
+PROD104,HarperCollins Jeans 435,electronics,Saree,Nike,9915.14,4957.01,-10.0,3.3
+PROD105,HarperCollins History 567,Electronics,History,Samsung,1226.98,512.74,-10.0,4.3
+PROD106,SAMSUNG Self-Help 140,Books,Non-Fiction,Apple,2497.77,1289.07,-10.0,2.7
+PROD107,Penguin Shoes 647,Electronics,Jeans,HarperCollins,2197.41,1243.99,-10.0,3.8
+PROD108,SAMSUNG Saree 374,Electronics,Jacket,Philips,8053.89,3798.77,,3.4
+PROD109,Adidas Lighting 738,Electronics,Bedding,Samsung,10985.19,4961.67,-10.0,3.3
+PROD110,HarperCollins Shoes 395,Books,Jeans,Reebok,3614.21,,151.0,3.4
+PROD111,SAMSUNG Shoes 988,Sports,T-Shirt,Nike,8422.78,3497.08,,1.3
+PROD112,Samsung Mobile 229,electronics,Camera,Philips,1842.59,863.26,,2.1
+PROD113,NIKE Laptop 971,Home & Kitchen,Tablet,LG,4592.32,3353.13,-10.0,4.4
+PROD114,LG Laptop 719,sports,Tablet,Prestige,369.89,273.76,127.0,1.6
+PROD115,Philips Running 335,Home & Kitchen,Yoga,Philips,1790.83,1510.25,-10.0,1.2
+PROD116,Prestige Camera 543,Clothing,Camera,NIKE,435.65,205.88,,4.6
+PROD117,Philips Shoes 833,Home & Kitchen,Jacket,Penguin,8218.44,3795.12,-10.0,1.4
+PROD118,Philips Tablet 619,Books,Camera,SAMSUNG,7833.15,3455.19,,4.4
+PROD119,Sony Appliances 233,Clothing,Appliances,Reebok,1032.32,898.31,-10.0,3.6
+PROD120,Sony Shoes 445,electronics,Saree,NIKE,2596.89,2130.77,405.0,3.6
+PROD121,apple Saree 724,electronics,T-Shirt,Adidas,3595.48,2104.51,488.0,4.4
+PROD122,Penguin Camera 744,Clothing,Mobile,Adidas,7521.05,3582.8,455.0,3.2
+PROD123,Apple Comics 186,Home & Kitchen,History,NIKE,8695.96,4509.52,55.0,1.3
+PROD124,Sony Science 562,Electronics,Self-Help,HarperCollins,2920.07,1683.74,429.0,3.8
+PROD125,Prestige Self-Help 619,electronics,Self-Help,Philips,4653.43,3319.56,150.0,3.1
+PROD126,Reebok Cricket 811,electronics,Cycling,Philips,7222.61,4191.62,,5.0
+PROD127,Prestige Jacket 193,books,T-Shirt,Adidas,10278.13,4634.75,-10.0,4.6
+PROD128,LG Furniture 340,Electronics,Furniture,Samsung,3300.49,1512.89,286.0,1.3
+PROD129,NIKE Decor 511,HOME & KITCHEN,Decor,Sony,6486.1,2927.94,-10.0,1.1
+PROD130,Reebok Lighting 589,Home & Kitchen,Furniture,HarperCollins,6830.37,3698.17,358.0,3.0
+PROD131,Adidas Camera 887,CLOTHING,Headphones,Adidas,4025.67,2003.3,,2.2
+PROD132,Prestige Football 126,HOME & KITCHEN,Cricket,Puma,421.08,311.52,,1.1
+PROD133,NIKE Swimming 562,Books,Football,Puma,1452.57,1240.39,327.0,1.3
+PROD134,Sony History 898,Clothing,Fiction,LG,773.67,417.16,,2.6
+PROD135,Apple Shoes 165,Sports,Dress,Adidas,751.87,513.01,497.0,3.1
+PROD136,Philips Appliances 779,Sports,Furniture,Penguin,478.64,267.89,,1.5
+PROD137,Reebok Headphones 725,Sports,Smartwatch,Samsung,8231.34,3960.64,-10.0,4.5
+PROD138,Penguin History 493,HOME & KITCHEN,Self-Help,Prestige,3787.13,2239.62,,3.9
+PROD139,Penguin Jeans 977,HOME & KITCHEN,Jacket,Nike,6654.13,3812.69,-10.0,4.9
+PROD140,HarperCollins Decor 546,sports,Decor,Reebok,-99.0,1721.52,-10.0,2.5
+PROD141,Penguin Jacket 835,CLOTHING,Jacket,Prestige,8008.6,3469.87,310.0,3.2
+PROD142,apple Non-Fiction 957,CLOTHING,Comics,NIKE,1853.23,866.37,-10.0,1.1
+PROD143,apple Mobile 427,sports,Laptop,Prestige,6126.71,3455.38,-10.0,2.7
+PROD144,Penguin Camera 300,sports,Mobile,SAMSUNG,8982.92,4476.76,,3.7
+PROD145,Reebok Smartwatch 139,books,Headphones,Sony,5504.54,4844.79,332.0,1.7
+PROD146,SAMSUNG Comics 644,Books,Comics,SAMSUNG,2429.45,1926.27,-10.0,3.3
+PROD147,LG Appliances 636,books,Bedding,Penguin,5530.88,3775.02,-10.0,2.6
+PROD148,Samsung Jacket 758,Home & Kitchen,Jeans,Apple,5762.24,3021.72,-10.0,3.7
+PROD149,Nike Appliances 740,CLOTHING,Decor,Nike,5499.92,4555.76,387.0,3.0
+PROD150,SAMSUNG Furniture 477,books,Decor,SAMSUNG,5579.62,2532.01,,4.3
+PROD151,Samsung Appliances 375,books,Decor,SAMSUNG,-99.0,,423.0,1.7
+PROD152,NIKE Fiction 779,Sports,Non-Fiction,Sony,1939.62,1343.36,,3.2
+PROD153,NIKE Bedding 873,CLOTHING,Furniture,Nike,3351.59,1839.26,,2.9
+PROD154,Puma Jacket 845,Books,Jeans,Apple,4057.06,2836.86,-10.0,3.3
+PROD155,HarperCollins Science 802,Electronics,Fiction,Apple,1825.99,1177.83,60.0,4.7
+PROD156,Reebok Decor 139,Books,Appliances,Sony,9053.67,4116.81,-10.0,3.5
+PROD157,Samsung Comics 227,electronics,Fiction,Samsung,7081.9,3585.73,-10.0,3.4
+PROD158,Nike Yoga 654,HOME & KITCHEN,Football,SAMSUNG,4781.69,2080.41,,1.5
+PROD159,Nike Saree 450,Books,Dress,Penguin,4431.44,3943.29,-10.0,1.4
+PROD160,apple Tablet 374,electronics,Headphones,Prestige,11244.71,4696.06,411.0,1.4
+PROD161,Sony Jeans 636,Sports,Saree,Puma,1603.72,1375.66,-10.0,3.0
+PROD162,Puma History 707,Home & Kitchen,Comics,Prestige,5328.7,4182.75,,2.0
+PROD163,Puma Furniture 243,Clothing,Cookware,Penguin,147.42,74.61,-10.0,3.7
+PROD164,LG Camera 401,HOME & KITCHEN,Camera,Nike,2253.87,928.35,,3.2
+PROD165,Nike Appliances 352,Home & Kitchen,Furniture,NIKE,4240.36,2602.53,,3.9
+PROD166,Prestige Non-Fiction 799,Books,Non-Fiction,LG,542.21,367.62,-10.0,4.1
+PROD167,Penguin Saree 689,HOME & KITCHEN,T-Shirt,apple,6880.3,3498.39,-10.0,4.2
+PROD168,apple Tablet 908,Clothing,Laptop,Samsung,5864.41,2878.53,,3.7
+PROD169,Puma Jeans 987,Books,Dress,HarperCollins,1202.28,835.03,-10.0,2.2
+PROD170,Adidas Shoes 686,Home & Kitchen,Shoes,Prestige,3961.72,1872.87,37.0,-1.0
+PROD171,NIKE Cricket 448,Clothing,Cycling,LG,3464.95,1582.45,-10.0,3.8
+PROD172,Puma Football 366,Books,Swimming,Nike,6212.71,4119.08,,3.4
+PROD173,Apple Appliances 796,Home & Kitchen,Appliances,Nike,3882.89,1805.65,-10.0,2.0
+PROD174,NIKE Science 291,sports,History,HarperCollins,431.93,259.48,-10.0,3.4
+PROD175,Penguin Dress 839,Books,Shoes,Sony,3563.14,1732.66,451.0,6.5
+PROD176,NIKE Jacket 282,Electronics,Shoes,Puma,5166.32,4561.59,392.0,1.6
+PROD177,NIKE Bedding 498,Sports,Decor,Nike,3110.8,2085.4,-10.0,1.6
+PROD178,Nike Camera 275,sports,Camera,Samsung,7378.98,4082.87,-10.0,2.5
+PROD179,Puma Camera 326,Clothing,Headphones,apple,5925.43,3667.36,172.0,4.7
+PROD180,apple Comics 327,Electronics,Science,apple,2310.25,933.35,128.0,2.0
+PROD181,LG Self-Help 722,CLOTHING,Comics,HarperCollins,5333.09,2355.13,,2.1
+PROD182,SAMSUNG Running 478,Electronics,Football,Adidas,486.18,235.83,-10.0,1.0
+PROD183,Apple Non-Fiction 981,Clothing,Comics,Philips,2936.29,1232.14,76.0,4.8
+PROD184,Penguin Fiction 673,HOME & KITCHEN,Comics,apple,4084.97,1807.56,,2.1
+PROD185,Philips Headphones 478,Home & Kitchen,Smartwatch,LG,5881.55,3558.95,-10.0,3.8
+PROD186,LG Laptop 761,CLOTHING,Smartwatch,LG,684.93,555.77,-10.0,1.2
+PROD187,Reebok Decor 369,Sports,Bedding,Philips,7972.85,3620.2,460.0,4.9
+PROD188,Puma Swimming 432,books,Running,Puma,1994.66,1033.16,437.0,1.6
+PROD189,Samsung Shoes 428,Books,Shoes,apple,1872.15,1123.07,426.0,3.1
+PROD190,SAMSUNG Jacket 891,Home & Kitchen,Dress,SAMSUNG,10146.51,4417.79,244.0,1.3
+PROD191,Prestige Dress 944,HOME & KITCHEN,Jeans,Apple,8990.2,4594.75,0.0,
+PROD192,Sony Non-Fiction 107,books,Non-Fiction,SAMSUNG,2748.64,1670.83,-10.0,1.3
+PROD193,Adidas Yoga 743,electronics,Running,Philips,3870.1,2065.63,-10.0,1.5
+PROD194,HarperCollins Fiction 998,Electronics,Self-Help,Philips,139.72,102.83,,5.0
+PROD195,Prestige Swimming 944,HOME & KITCHEN,Cycling,Prestige,244.29,195.52,32.0,3.6
+PROD196,HarperCollins Cookware 952,Books,Cookware,Samsung,1322.61,683.14,,3.6
+PROD197,Apple Cycling 713,books,Cricket,SAMSUNG,3377.23,1917.59,257.0,4.3
+PROD198,Reebok Football 148,CLOTHING,Football,NIKE,3592.4,1454.06,38.0,2.6
+PROD199,Adidas Swimming 953,HOME & KITCHEN,Cricket,Adidas,2326.53,2106.78,342.0,2.9
+PROD200,Philips Yoga 695,Clothing,Yoga,Philips,4133.17,1871.13,-10.0,1.0
