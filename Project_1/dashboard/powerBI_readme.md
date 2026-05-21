@@ -150,7 +150,7 @@ Before building the dashboard, the raw datasets were cleaned using Python + Pand
 
 # Project Files
 
-```text
+```
 ecommerce-dashboard/
 │
 ├── dashboards/
@@ -172,6 +172,7 @@ ecommerce-dashboard/
 │   └── dashboard_screenshots/
 │
 └── README.md
+```
 
 
 ---
