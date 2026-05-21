@@ -173,3 +173,12 @@ ecommerce-dashboard/
 │
 └── README.md
 
+
+---
+
+## Contributing
+This is a personal learning portfolio, but suggestions and feedback are welcome!
+
+---
+
+*Made with ❤️*
