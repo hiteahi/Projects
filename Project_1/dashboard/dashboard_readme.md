@@ -151,29 +151,14 @@ Before building the dashboard, the raw datasets were cleaned using Python + Pand
 # Project Files
 
 ```
-ecommerce-dashboard/
+PROJECT_1/
 │
-├── dashboards/
-│   ├── ecommerce_dashboard.pbix
-│   └── powerBI_readme.md
-│   
+├── p1.pbix
 │
-├── cleaned_data/
-│   ├── customers_clean.csv
-│   ├── orders_clean.csv
-│   ├── order_items_clean.csv
-│   ├── products_clean.csv
-│   └── returns_clean.csv
+├── dashboard screenshots/
 │
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── visualizations/
-│   └── dashboard_screenshots/
-│
-└── README.md
+└── dashboard_readme.md
 ```
-
 
 ---
 
