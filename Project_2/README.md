@@ -333,12 +333,40 @@ Planned enhancements:
 ```text
 PROJECT_2/
 │
-├── PBIX File
-├── README.md
-└── images/
-    ├── dark-theme.png
-    └── light-theme.png
-
+├── icon-black/                   # Black minimal icons for light-themed layouts
+│   ├── humidity.png
+│   ├── location (3).png
+│   ├── location.png
+│   ├── rainy.png
+│   ├── sunrise (2).png
+│   ├── sunrise.png
+│   ├── temperature.png
+│   ├── uv-index.png
+│   ├── visibility.png
+│   └── windy.png
+│
+├── icon-white/                   # White minimal icons for dark-themed layouts
+│   ├── humidity.png
+│   ├── location.png
+│   ├── rainy (1).png
+│   ├── sunrise (1).png
+│   ├── sunrise (3).png
+│   ├── temperature (1).png
+│   ├── uv-index (1).png
+│   ├── visibility.png
+│   └── windy.png
+│
+├── images/                       # UI design theme assets
+│   ├── dark-theme.png
+│   ├── light-theme_black-text.png
+│   └── light-theme.png
+│
+├── wallpaper/                    # Background layouts for report canvas
+│   ├── dark_background.png
+│   └── light_background.png
+│
+├── p2.pbix                       # Main Power BI Desktop report file
+└── README.md                     # Project documentation (this file)
 ```
 
 ---

@@ -20,22 +20,31 @@ A real-world style **end-to-end data cleaning project** using 5 messy e-commerce
 ```
 ecommerce-data-cleaning/
 │
-├── raw_data/                        ← Dirty input files (DO NOT edit)
-│   ├── customers.csv                  1,000 rows
-│   ├── products.csv                     200 rows
-│   ├── orders.csv                     1,500 rows
-│   ├── order_items.csv                3,000 rows
-│   └── returns.csv                      300 rows
-│
-├── cleaned_data/                    ← Output after cleaning
+├── cleaned_data/                       # Processed, clean datasets ready for modeling
 │   ├── customers_clean.csv
-│   ├── products_clean.csv
-│   ├── orders_clean.csv
+│   ├── master_table.csv
 │   ├── order_items_clean.csv
-│   ├── returns_clean.csv
-│   └── master_table.csv             ← All tables merged
+│   ├── orders_clean.csv
+│   ├── products_clean.csv
+│   └── returns_clean.csv
 │
-├── visualizations/                  ← 8 charts (PNG, 150 DPI)
+├── dashboard/                          # Power BI assets and documentation
+│   ├── dashboard screenshots/          # Embedded dashboard interface views
+│   │   ├── 6086750725191963289.jpg
+│   │   ├── 6086750725191963290.jpg
+│   │   └── 6086750725191963291.jpg
+│   ├── dashboard_readme.md             # Detailed documentation for the dashboard
+│   └── p1.pbix                         # Main Power BI Desktop file
+│
+├── raw_data/                           # Original, uncleaned source datasets
+│   ├── customers.csv
+│   ├── order_items.csv
+│   ├── orders.csv
+│   ├── products.csv
+│   └── returns.csv
+│
+├── visualizations/                     # Static EDA charts generated via Python
+│   ├── .ipynb_checkpoints/
 │   ├── 01_sales_by_category.png
 │   ├── 02_monthly_revenue_trend.png
 │   ├── 03_payment_method_pie.png
@@ -45,9 +54,9 @@ ecommerce-data-cleaning/
 │   ├── 07_return_reasons.png
 │   └── 08_revenue_by_channel.png
 │
-├── data_cleaning.ipynb              ← Main notebook (13 steps)
-├── INSIGHTS.md                      ← Business insights from analysis
-└── README.md                        ← This file
+├── data_cleaning.ipynb                 # Jupyter Notebook containing ETL pipeline
+├── INSIGHTS.md                         # Business intelligence findings and takeaways
+└── README.md                           # Project overview documentation (this file)
 ```
 
 ---
