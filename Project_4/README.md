@@ -8,6 +8,7 @@ The project uses a simulated Starbucks dataset generated through Python and mode
 
 ---
 
+```text
 Project_4/
 │
 ├── Dashboard/
@@ -32,7 +33,7 @@ Project_4/
 │
 │
 └── README.md
-
+```
 --- 
 
 ## Dashboard Features
