@@ -1,0 +1,36 @@
+ID,item,type,price
+1,Apple Fritter,bakery,245
+2,Banana Nut Loaf,bakery,235
+3,Blueberry Scone,bakery,215
+4,Butter Croissant,bakery,195
+5,Cheese Danish,bakery,225
+6,Chocolate Chunk Cookie,bakery,175
+7,Chocolate Croissant,bakery,245
+8,Chonga Bagel,bakery,195
+9,Iced Lemon Pound Cake,bakery,235
+10,Marshmallow Dream Bar,bakery,185
+11,Morning Bun,bakery,215
+12,Plain Bagel,bakery,175
+13,Pumpkin Bread,bakery,235
+14,Starbucks Classic Coffee Cake,bakery,245
+15,Cheese & Fruit,bistro box,345
+16,Chicken & Hummus,bistro box,365
+17,Chipotle Chicken Wraps,bistro box,375
+18,Protein,bistro box,345
+19,Birthday Cake Pop,petite,160
+20,Raspberry Truffle Cake Pop,petite,160
+21,Red Velvet Whoopie Pie,petite,195
+22,Tiramisu Cake Pop,petite,160
+23,Bacon & Gouda Artisan Breakfast Sandwich,hot breakfast,325
+24,Sausage & Cheddar Classic Breakfast Sandwich,hot breakfast,325
+25,Spinach & Feta Breakfast Wrap,hot breakfast,295
+26,Starbucks Perfect Oatmeal,hot breakfast,195
+27,Turkey Bacon & White Cheddar Classic Breakfast Sandwich,hot breakfast,345
+28,Veggie & Monterey Jack Artisan Breakfast Sandwich,hot breakfast,315
+29,Deluxe Fruit Blend,salad,215
+30,Chicken Santa Fe Panini,sandwich,365
+31,Ham & Swiss Panini,sandwich,365
+32,Roasted Tomato & Mozzarella Panini,sandwich,325
+33,Turkey & Swiss Sandwich,sandwich,365
+34,Greek Yogurt Honey Parfait,parfait,265
+35,Strawberry & Blueberry Yogurt Parfait,parfait,275
