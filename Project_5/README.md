@@ -1,4 +1,4 @@
-# Zepto Delivery Dashboard
+# Zepto Dashboard
 
 ## Overview
 
